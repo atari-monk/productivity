@@ -52,3 +52,9 @@ Format of free notes:
 - note 1
 - note n
 ```
+
+## Other notes
+
+- Project 'productivity' logs mesure only development, not loging data.  
+    Logging data counts to development in other projects.  
+    It is dev support tool for projects.
