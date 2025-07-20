@@ -1,14 +1,12 @@
 # This is a 'productivity' support repository.
 
-The point is to measure development on projects in 'Atari-Monk-Gold-Software'
-and 'Atari-Monk-Junkyard'.
+The point is to measure development on projects in 'Atari-Monk-Art'.
 
 ## **Project Structure**
 
 ```bash
 /productivity
- ├─ Atari-Monk-Gold-Software/        # Folder with logs for best projects
- ├─ Atari-Monk-Junkyard/             # Folder with logs for draft projects
+ ├─ Atari-Monk-Art/                  # Folder with logs for my best projects
  ├─ docs/                            # GitHub Pages content (formatted reports)
  ├─ measurements.md                  # Doc describing methods to collect logs
  └─ README.md                        # This Project Manifesto ✨
@@ -34,7 +32,7 @@ Detailed history is intentionally not maintained.
 ## Free notes = space for your mind to reflect, pivot, adapt
 
 ```bash
-/Atari-Monk-Gold-Software
+/Atari-Monk-Art
  ├─ .productivity/
  │   ├─ daily-log.md
  │   ├─ goals.md
