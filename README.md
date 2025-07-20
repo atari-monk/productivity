@@ -30,3 +30,25 @@ Minimal commit messages:
 - `Custom message`
 
 Detailed history is intentionally not maintained.
+
+## Free notes = space for your mind to reflect, pivot, adapt
+
+```bash
+/Atari-Monk-Gold-Software
+ ├─ .productivity/
+ │   ├─ daily-log.md
+ │   ├─ goals.md
+ │   ├─ reflections.md
+ │   └─ ...
+```
+
+* **`daily-log.md`** → What did I build/fix today?
+* **`goals.md`** → What’s my focus this week? (e.g. polish hub, plug 3 games)
+* **`reflections.md`** → Tiny weekly notes on what worked & what sucked.
+
+Format of free notes:
+
+```plaintext
+- note 1
+- note n
+```
