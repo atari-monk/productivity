@@ -17,3 +17,13 @@ logs:
           Agent: Human and LLM Chat
           Start: 17:04
           Stop: 18:05
+
+        - Feature: Page for local test
+        - Task:
+              - Cloned Scenelet and named it as zippy-test
+              - Linked local pnpm package, with file:../zippy
+              - Always available for local test
+              - No need for page test code in zippy package
+          Agent: Human and LLM Chat
+          Start: 20:33
+          Stop: 20:49
