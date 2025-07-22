@@ -1,0 +1,11 @@
+logs:
+    "2025-07-22":
+        - Feature: Project structure
+        - Task:
+              - Initial setup, vite ts with pnpm
+              - LLM proposed modular engine but it failed to integrate
+              - Converted day-game\dev-tool game-engine, input-system and factory to typescript
+              - Tested on cross lines scene
+          Agent: Human and LLM Chat
+          Start: 14:38
+          Stop: 16:41

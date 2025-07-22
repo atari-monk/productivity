@@ -1,0 +1,7 @@
+logs:
+    "2025-07-21":
+        - Task:
+              - tray for laptop, for articulated arm
+          Agent: Human
+          Start: 15:30
+          Stop: 18:00

@@ -1,0 +1,12 @@
+logs:
+    "2025-07-21":
+        - Task:
+              - Initial project setup
+          Agent: Human
+          Start: 20:28
+          Stop: 20:48
+
+        - Feature: doc to setup 'fullscreen-canvas' project
+          Agent: Human
+          Start: 22:24
+          Stop: 23:00
