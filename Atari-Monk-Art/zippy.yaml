@@ -1,7 +1,7 @@
 logs:
     "2025-07-22":
         - Feature: Project structure
-        - Task:
+          Task:
               - Initial setup, vite ts with pnpm
               - LLM proposed modular engine but it failed to integrate
               - Converted day-game\dev-tool game-engine, input-system and factory to typescript
@@ -11,7 +11,7 @@ logs:
           Stop: 16:41
 
         - Feature: npm Package
-        - Task:
+          Task:
               - Make it into npm package
               - Published package
           Agent: Human and LLM Chat
@@ -19,7 +19,7 @@ logs:
           Stop: 18:05
 
         - Feature: Page for local test
-        - Task:
+          Task:
               - Cloned Scenelet and named it as zippy-test
               - Linked local pnpm package, with file:../zippy
               - Always available for local test
