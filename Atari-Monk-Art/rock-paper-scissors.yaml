@@ -1,0 +1,13 @@
+logs:
+    "2025-07-27":
+        - Feature: Project structure
+          Task:
+              - Generate project
+              - Moved files to project
+              - Istalled 'zippy'
+              - js to ts
+              - works
+              - published
+          Agent: Human and LLM Chat
+          Start: 19:34
+          Stop: 21:37
