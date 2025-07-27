@@ -1,0 +1,9 @@
+logs:
+    "2025-07-27":
+        - Feature: OpenRA - Red Alert
+          Task:
+              - Skirmish lost to AI
+              - Skirmish won against nerfed AI
+          Agent: Human vs AI
+          Start: 22:47
+          Stop: 23:53
