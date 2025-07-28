@@ -3,7 +3,15 @@ logs:
         - Feature: OpenRA - Red Alert
           Task:
               - Skirmish lost to AI
-              - Skirmish won against nerfed AI
+              - Skirmish won against AI turtle 50% nerfed
           Agent: Human vs AI
           Start: 22:47
           Stop: 23:53
+
+    "2025-07-28":
+        - Feature: OpenRA - Red Alert
+          Task:
+              - Skirmish won against AI normal 40% nerfed
+          Agent: Human vs AI
+          Start: 9:52
+          Stop: 10:35
