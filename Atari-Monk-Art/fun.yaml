@@ -15,3 +15,11 @@ logs:
           Agent: Human vs AI
           Start: 9:52
           Stop: 10:35
+
+    "2025-07-29":
+        - Feature: OpenRA - Red Alert
+          Task:
+              - Skirmish against AI normal 30% nerfed, large map
+          Agent: Human vs AI
+          Start: 08:59
+          Stop: 09:22
