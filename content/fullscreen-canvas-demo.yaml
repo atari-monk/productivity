@@ -4,5 +4,8 @@ logs:
           Task:
               - Fixed blogs (scripts) to categorize and order dev notes
           Agent: Human, LLM Chat, Copilot
-          Start: 09:50
-          Stop: 11:33
+          Sessions:
+              - Start: "09:50"
+                Stop: "11:38"
+              - Start: "12:51"
+                Stop: ""
