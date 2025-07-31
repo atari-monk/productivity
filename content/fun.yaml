@@ -23,7 +23,16 @@ logs:
               - Skirmish against AI normal 20% nerfed, huge map, same nation
           Agent: Human vs AI
           Sessions:
-            - Start: "08:59"
-              Stop: "09:22"
-            - Start: "23:49"
-              Stop: "12:33"
+              - Start: "08:59"
+                Stop: "09:22"
+              - Start: "23:49"
+                Stop: "12:33"
+
+    "2025-07-31":
+        - Feature: OpenRA - Red Alert
+          Task:
+              - Skirmish against AI normal, huge map, same nation, lost
+          Agent: Human vs AI
+          Sessions:
+              - Start: "16:09"
+                Stop: "16:39"
