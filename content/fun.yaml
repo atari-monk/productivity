@@ -36,3 +36,22 @@ logs:
           Sessions:
               - Start: "16:09"
                 Stop: "16:39"
+
+    "2025-08-01":
+        - Feature: OpenRA - Red Alert
+          Task:
+              - Skirmish against AI normal, huge map, same nation, lost
+          Agent: Human vs AI
+          Sessions:
+              - Start: "22:46"
+                Stop: "23:10"
+    
+    "2025-08-02":
+        - Feature: OpenRA - Red Alert
+          Task:
+              - Skirmish against AI normal, huge map, same nation, lost
+              - read that ai cheats
+          Agent: Human vs AI
+          Sessions:
+              - Start: "10:22"
+                Stop: "10:43"
