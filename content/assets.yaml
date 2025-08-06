@@ -1,7 +1,4 @@
 logs:
     "2025-07-20":
-        - Task:
-              - Categorized assets in folder
-          Agent: Human
-          Start: 23:00
-          Stop: 23:55
+        - Task: Categorized assets in folder
+          Time: "1h"

@@ -2,6 +2,8 @@
 
 The point is to measure projects development with logs.
 
+---
+
 ## **Project Structure**
 
 ```bash
@@ -10,68 +12,41 @@ The point is to measure projects development with logs.
  └─ README.md              # This Project Manifesto ✨
 ```
 
-This should stay intentionally simple, only in text form.
+This should stay intentionally simple, only in text form.  
+Each project has its file `project-name.yaml`.
+
+---
 
 ## Log Format
 
-### ✅ **Single Time Range (One Session)**
-
-example:
-
-```yaml
-logs:
-  "2025-07-24":
-    - Feature: Test Toogle Button component
-      Task:
-        - Splitting wood before this, teached me a lesson
-        - Separate pickaroo test project
-        - Test for toogle button
-      Agent: Human, LLM Chat
-      Start: "13:44"
-      Stop: "14:57"
-```
-
-scheme:
-
-```yaml
-logs:
-  "2025-07-29":
-    - Feature:
-      Task:
-        - 
-      Agent: Human, LLM Chat
-      Start: ""
-      Stop: null
-```
-
-### ✅ **Multiple Sessions (Time Ranges as List)**
-
-example:
+Example:
 
 ```yaml
 logs:
   "2025-07-29":
     - Feature: Project setup
       Task:
-        - Fixed blogs (scripts) to categorize and order dev notes
-      Agent: Human, LLM Chat, Copilot
-      Sessions:
-        - Start: "09:50"
-          Stop: "11:38"
-        - Start: "12:51"
-          Stop: null
+        - Fixed blog scripts to categorize and order dev notes
+      Time:
+        - "1h48m"
+        - "1h22m"
+
+  "2025-07-30":
+    - Task:
+        - Improved test coverage on utility functions
+      Time: "45m"
 ```
 
-scheme:
+Schema:
 
 ```yaml
 logs:
-  "2025-07-29":
-    - Feature:
+  "YYYY-MM-DD":
+    - Feature: <string>         # Optional
       Task:
-        - 
-      Agent: Human, LLM Chat
-      Sessions:
-        - Start: ""
-          Stop: null
+        - <string>              # Required list of task descriptions
+      Time:                     # Required duration(s)
+        - "<duration>"          # List or single string (e.g. "1h", "30m")
 ```
+
+---

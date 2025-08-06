@@ -1,0 +1,8 @@
+logs:
+    "2025-08-06":
+        projects:
+            - productivity
+            - mind-dump
+            - dev-blog
+            - zippy-shared-lib
+            - fullscreen-canvas-vanilla
