@@ -1,0 +1,39 @@
+logs:
+    "2025-07-21":
+        - Task:
+              - tray for laptop, for articulated arm
+          Agent: Human
+          Start: 15:30
+          Stop: 18:00
+
+    "2025-07-25":
+        - Feature: rotating base for articulated arm
+        - Task:
+              - sorting trash in garage full of trash
+              - taking out cart to wheel table saw
+              - drilling, gluing, table saw cutting
+          Agent: Human
+          Start: 11:50
+          Stop: 22:30
+
+    "2025-07-26":
+        - Feature: rotating base for articulated arm
+        - Task:
+              - 4 threaded rods to connect arm to base
+              - glued plywood blocks to friction hold arms in place
+          Agent: Human
+          Start: 10:41
+          Stop: 22:30
+
+    "2025-08-04":
+        - Feature: Hand saw bench
+          Task:
+              - Cut >= 10x10 wood for legs with Table saw
+              - Cut 'table' board
+              - 8 screews to join them
+              - Helped parents to bolt in their sitting bench, metal legs to boards
+              - Cut little boards for phone stand with new hand saw bench
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "16:40"
+                Stop: "21:00"

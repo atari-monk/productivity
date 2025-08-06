@@ -1,0 +1,61 @@
+logs:
+    "2025-07-29":
+        - Feature: Project setup
+          Task:
+              - Vite command
+              - Initial vanilla implementation based on react 'fullscreen-canvas' component and its 'functionality/FullscreenCanvas.md' doc
+          Agent: Human, LLM Chat
+          Start: "17:10"
+          Stop: "17:58"
+
+        - Feature: Integration with 'zippy'
+          Task:
+              - Integrated 'zippy' and 'fullscreen-canvas-vanilla' components in 'zippy-test' project
+              - Broke FPS info
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "18:50"
+                Stop: "20:22"
+              - Start: "22:06"
+                Stop: "23:45"
+
+    "2025-07-30":
+        - Feature: Research current state
+          Task:
+              - Scripts 'code_to_md' and 'clipboard_collector'
+              - 3 Files with analisis of current state
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "16:54"
+                Stop: "17:23"
+              - Start: "18:54"
+                Stop: "20:00"
+
+    "2025-07-31":
+        - Feature: Refactor
+          Task:
+              - Extracted separate FullscreenService from FullscreenCanvas
+              - Finished implementation of refactor document
+              - Made more classes SRP, fixed factory, improved DI
+              - Made more classes SRP, fixed engine hook, project structure
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "10:40"
+                Stop: "11:12"
+              - Start: "12:06"
+                Stop: "12:28"
+              - Start: "13:41"
+                Stop: "14:07"
+              - Start: "16:41"
+                Stop: "17:53"
+              - Start: "21:43"
+                Stop: "23:15"
+
+    "2025-08-05":
+        - Feature: Update after changes in shared library
+          Task:
+              - Session 1, updated lib, engine and canvas
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "18:00"
+                Stop: "19:33"

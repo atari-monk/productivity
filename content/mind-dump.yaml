@@ -1,0 +1,21 @@
+logs:
+    "2025-07-20":
+        - Task: Initial project setup
+          Agent: Human and LLM Chat
+          Start: "14:27"
+          Stop: "15:43"
+
+    "2025-08-02":
+        - Task:
+              - Clean chats by putting some to blog
+          Agent: Human
+          Sessions:
+              - Start: "20:39"
+                Stop: "20:57"
+
+    "2025-08-05":
+        - Feature: Squash history to one commit message
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "23:08"
+                Stop: "23:15"

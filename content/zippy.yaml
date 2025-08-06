@@ -1,0 +1,54 @@
+logs:
+    "2025-07-22":
+        - Feature: Project structure
+          Task:
+              - Initial setup, vite ts with pnpm
+              - LLM proposed modular engine but it failed to integrate
+              - Converted day-game\dev-tool game-engine, input-system and factory to typescript
+              - Tested on cross lines scene
+          Agent: Human and LLM Chat
+          Start: "14:38"
+          Stop: "16:41"
+
+        - Feature: npm Package
+          Task:
+              - Make it into npm package
+              - Published package
+          Agent: Human and LLM Chat
+          Start: "17:04"
+          Stop: "18:05"
+
+        - Feature: Page for local test
+          Task:
+              - Cloned Scenelet and named it as zippy-test
+              - Linked local pnpm package, with file:../zippy
+              - Always available for local test
+              - No need for page test code in zippy package
+          Agent: Human and LLM Chat
+          Start: "20:33"
+          Stop: "20:49"
+
+    "2025-08-01":
+        - Feature: Manually refactor code base after a long break
+          Task:
+              - Turned out we need shared lib project with tools, step back to go forward
+              - Installed 'zippy-shared-lib' to 'zippy' with usual config problem (put types in exports)
+              - Moved common type to shared, published, updated in zippy
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "11:32"
+                Stop: "12:33"
+              - Start: "16:15"
+                Stop: "17:15"
+              - Start: "20:33"
+                Stop: "21:13"
+
+    "2025-08-05":
+        - Feature: Manually refactor code base after a long break
+          Task:
+              - Removed 95% of shared lib, need to update for it
+              - Update was not a big problem
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "17:43"
+                Stop: "17:55"

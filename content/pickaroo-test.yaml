@@ -1,0 +1,33 @@
+logs:
+    "2025-07-24":
+        - Feature: Test Toogle Button component
+          Task:
+              - Splitting wood before this, teached me a lesson
+              - Separate pickaroo test project
+              - Test for toogle button
+          Agent: Human and LLM Chat
+          Start: 13:44
+          Stop: 14:57
+
+        - Feature: Test Selector component
+          Task:
+              - Test draft
+          Agent: Human and LLM Chat
+          Start: 22:22
+          Stop: 22:38
+
+        - Feature: Test Log component
+          Task:
+              - Test draft
+          Agent: Human and LLM Chat
+          Start: 22:46
+          Stop: 23:02
+
+    "2025-07-27":
+        - Feature: Test Container component
+          Task:
+              - Test draft
+              - Was not visible due to styles
+          Agent: Human and LLM Chat
+          Start: 12:25
+          Stop: 15:38

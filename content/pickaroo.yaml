@@ -1,0 +1,36 @@
+logs:
+    "2025-07-23":
+        - Feature:
+              - Project Structure
+          Task:
+              - Initial project setup
+              - Building lib with vite
+              - Tested ui components with mock game object
+          Agent: Human and LLM Chat
+          Start: 08:44
+          Stop: 11:42
+
+        - Feature: Ease of Use
+          Task:
+              - Project structure changes
+              - Generic ui container
+              - Refactoring of components (fit to container, types and be consistent with each other)
+          Agent: Human and LLM Chat
+          Start: 16:22
+          Stop: 17:47
+
+        - Feature: Ease of Use
+          Task:
+              - Making selector more generic
+              - Filed to run
+          Agent: Human and LLM Chat
+          Start: 23:31
+          Stop: 01:21
+
+        - Feature: Ease of Use
+          Task:
+              - Making it run
+              - Tested Toogle Button
+          Agent: Human and LLM Chat
+          Start: 09:52
+          Stop: 10:47

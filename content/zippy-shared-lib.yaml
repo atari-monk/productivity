@@ -1,0 +1,124 @@
+logs:
+    "2025-08-01":
+        - Feature: Project Structure
+          Task:
+              - Initialized project
+              - Published to npm
+          Agent: Human, LLM Chat
+          Start: "13:40"
+          Stop: "15:00"
+          Time: "01:20"
+
+    "2025-08-02":
+        - Feature: Analize, document
+          Task:
+              - Script with maintanace prompts
+              - Optimizing with prompt 1/9
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "20:30"
+                Stop: "20:40"
+              - Start: "22:45"
+                Stop: "23:20"
+                Time: "00:45"
+
+    "2025-08-03":
+        - Feature: Analize, document
+          Task:
+              - Fix bugs form ai
+              - Scripts to support prompts generation
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "18:00"
+                Stop: "18:40"
+              - Start: "22:00"
+                Stop: "23:00"
+                Time: "01:40"
+
+    "2025-08-04":
+        - Feature: Optimizing with maintanace prompts
+          Task:
+              - Cli commands with args for prompt generation
+              - Reached a limit after witch prompt was not making code better
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "08:20"
+                Stop: "10:20"
+                Time: "02:00"
+
+        - Feature: Optimizing with maintanace prompts
+          Task:
+              - Refactored prompt script to use file for text data
+              - Refactoring with maintenance prompt
+              - Refactoring with SOLID checker prompt, went from 2 files to 20
+              - Script with 9 maintanace prompts
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "11:50"
+                Stop: "13:50"
+              - Start: "14:00"
+                Stop: "14:20"
+              - Start: "15:00"
+                Stop: "15:50"
+              - Start: "15:50"
+                Stop: "16:20"
+              - Start: "21:20"
+                Stop: "23:00"
+                Time: "05:20"
+
+    "2025-08-05":
+        - Feature: Optimizing with maintanace prompts
+          Task:
+              - Made code compile, paid internet bill
+              - Script tool for prompting
+              - Refactoring with 9 prompts
+              - Removed 95 % of lib after realizing it was pointless wrappers on browser utils
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "11:00"
+                Stop: "11:40"
+              - Start: "12:00"
+                Stop: "12:20"
+              - Start: "12:40"
+                Stop: "13:00"
+              - Start: "13:10"
+                Stop: "13:25"
+              - Start: "13:35"
+                Stop: "14:10"
+              - Start: "14:20"
+                Stop: "16:00"
+                Time: "03:50"
+
+    "2025-08-06":
+        - Feature: Analize this file
+          Task:
+              - Rewiewing, i see, i pretty much wasted 17 hours.
+                I am not sure why this happened.
+                After 3 project with simple game engine, i wanted to optimize them with prompts, document what it is.
+                I had 2 components, canvas and engine.
+                I comunicated them with interface in shared lib.
+                Extracted two shared classes.
+                I was optimizing them with prompts.
+                Events are handled in components, so no need for centralizing it.
+                Wrappers over browser api is just pointless and insane.
+                Classes were removed.
+                I guess i was procrastinating and wanted prompt automation to much.
+                Only thing out of this is scripts for prompting, but it may turned out to be not that usefull.
+                This gives me thouth that a lot of time, best code is removed one.
+                Need clear, measured goals.
+          Agent: Human, LLM Chat
+          Sessions:
+              - Start: "10:20"
+                Stop: "11:20"
+                Time: "01:00"
+
+        - Feature: Prepare stable version
+          Task:
+              - Document version in dev-blog by hand,
+              - Fix git history
+              - Publish npm package
+          Agent: Human
+          Sessions:
+              - Start: "14:00"
+                Stop: "14:45"
+                Time: "00:45"

@@ -1,0 +1,68 @@
+logs:
+    "2025-07-21":
+        - Task:
+              - Initial project setup
+          Agent: Human
+          Start: "20:28"
+          Stop: "20:48"
+
+        - Feature: doc to setup 'fullscreen-canvas' project
+          Agent: Human
+          Start: "22:24"
+          Stop: "23:00"
+
+    "2025-07-28":
+        - Feature: prompt to generate scene for 'scenelet' project
+          Task:
+              - Prompt generated
+              - Scene idea failed
+          Agent: Human and LLM Chat
+          Start: "22:15"
+          Stop: "23:19"
+
+    "2025-07-30":
+        - Feature: Generate some prompts for today
+          Task:
+              - Refactored prompts collection
+              - Standarized format
+              - Ai chat usage strategy doc
+              - Many new prompts
+              - Better names
+              - Categorized
+              - Script for new files
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "12:10"
+                Stop: "14:13"
+              - Start: "15:55"
+                Stop: "16:49"
+
+    "2025-07-31":
+        - Feature: Generate prompts
+          Task:
+              - Prompt generating snap documentation for code base
+              - Added all notes form ai chats from today (new ideas)
+              - New prompts for generating documentation
+              - Snap and summary picture of 'fullscreen-canvas-vanilla' code base
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "18:27"
+                Stop: "19:23"
+              - Start: "21:02"
+                Stop: "21:42"
+
+    "2025-08-02":
+        - Feature: Generate prompts
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "18:50"
+                Stop: "19:07"
+
+    "2025-08-05":
+        - Feature: Squash history to one commit message
+          Task:
+              - Instruction added
+          Agent: Human and LLM Chat
+          Sessions:
+              - Start: "20:11"
+                Stop: "20:38"
