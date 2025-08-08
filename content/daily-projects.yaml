@@ -6,3 +6,11 @@ logs:
             - dev-blog
             - zippy-shared-lib
             - fullscreen-canvas-vanilla
+    "2025-08-07":
+        projects:
+            - zippy
+            - fullscreen-canvas-vanilla
+    "2025-08-08":
+        projects:
+            - fullscreen-canvas-vanilla
+            - zippy

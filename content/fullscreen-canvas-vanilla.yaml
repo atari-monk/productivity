@@ -30,3 +30,13 @@ logs:
               - Fix this file to comply with new format and same for projects active today
               - Fix git history (reset history, 'Initial commit')
           Time: "40m"
+
+    "2025-08-07":
+        - Task: Documentation
+          Time: "3h50m"
+
+    "2025-08-08":
+        - Task:
+              - Documentation
+              - Small Refactor during documentation
+          Time: "2h"
