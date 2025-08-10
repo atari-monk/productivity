@@ -3,15 +3,12 @@ logs:
         - Task:
               - Initial project setup, vite typescript
               - Rewrite to typescript
-          Agent: Human, LLM Chat, Copilot
-          Start: 17:59
-          Stop: 20:04
-          Commits: 2
+          Start: "17:59"
+          Stop: "20:04"
 
     "2025-07-21":
         - Feature: Publish game hub into 'pages' repository
           Task:
               -
-          Agent: Human, LLM Chat
-          Start: 15:46
-          Stop: 16:02
+          Start: "15:46"
+          Stop: "16:02"

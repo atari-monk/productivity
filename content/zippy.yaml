@@ -28,3 +28,13 @@ logs:
         - Task:
               - Documentation
           Time: "1h 10m"
+
+    "2025-08-09":
+        - Task:
+              - Documentation
+          Time: "3h10m"
+
+    "2025-08-10":
+        - Task:
+              - Documentation
+          Time: "2h"
