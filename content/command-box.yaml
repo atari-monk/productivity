@@ -1,0 +1,6 @@
+logs:
+    "2025-08-11":
+        Task:
+            - Setup posts in dev-blog
+            - Run cli init and install dependencies
+        Time: "1h15m"

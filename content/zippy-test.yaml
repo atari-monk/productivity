@@ -1,14 +1,11 @@
 logs:
     "2025-08-02":
-        - Feature:
-          Task:
-              - Integrate and test new components
-              - zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine integrated in zippy-test page
-          Agent: Human and LLM Chat
-          Sessions:
-              - Start: "11:19"
-                Stop: "11:56"
-              - Start: "13:12"
-                Stop: "14:10"
-              - Start: "16:46"
-                Stop: "17:23"
+        - Task: Zippy-test is a page to test component integration of zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine.
+          Time: "2h"
+          
+    "2025-08-12":
+        - Task:
+              - Make it run after component have been changed.
+              - There is some bug manifesting as weird behavior and crash
+              - Turned out (ater cloning monorepo project version to enable debug) canvas resizer was looping on itself
+          Time: "4h"

@@ -1,32 +1,29 @@
 logs:
     "2025-07-24":
-        - Feature: Project structure
-          Task:
+        - Task:
               - Initial project setup
               - Proper project files with console scripts
               - Generated and improved focus_drone script
               - Incrementally timestamps task list to log file
-          Agent: Human and LLM Chat
-          Start: "19:13"
-          Stop: "20:40"
+          Time: "1h30m"
 
     "2025-07-28":
-        - Feature: Script to generate 'index.md' for 'dev-blog'
-          Task:
+        - Task:
+              - Script to generate 'index.md' for 'dev-blog'
               - Generated prompt
               - Doc generate-blog-index-requirements.md
               - Generated script and refactored multiple times
               - Used script to 'dev-blog'
               - Updated custom template for 'dev-blog' github pages
-          Agent: Human and LLM Chat
-          Start: "11:03"
-          Stop: "12:32"
-          
+          Time: "1h30m"
+
     "2025-08-02":
-        - Feature: Blog inxed in new format 
-          Task:
-              - I need index for each level of file system
-          Agent: Human
-          Sessions:
-              - Start: "21:00"
-                Stop: "22:39"
+        - Task:
+              - Blog inxed in new format
+              - Index for each level of file system
+          Time: "1h30m"
+
+    "2025-08-13":
+        - Task:
+              - alarm scripts (cli,gui), notification after 25m
+          Time: "1h30m"

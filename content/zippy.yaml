@@ -26,15 +26,25 @@ logs:
 
     "2025-08-08":
         - Task:
-              - Documentation
+              - Documentation with refactoring
           Time: "1h 10m"
 
     "2025-08-09":
         - Task:
-              - Documentation
+              - Documentation with refactoring
           Time: "3h10m"
 
     "2025-08-10":
         - Task:
-              - Documentation
+              - Documentation with refactoring
           Time: "2h"
+
+    "2025-08-11":
+        - Task:
+              - Documentation with refactoring
+          Time: "1h"
+
+    "2025-08-12":
+        - Task:
+              - 
+          Time: ""

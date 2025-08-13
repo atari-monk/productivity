@@ -20,3 +20,14 @@ logs:
     "2025-08-10":
         projects:
             - zippy
+    "2025-08-11":
+        projects:
+            - zippy
+            - command-box
+    "2025-08-12":
+        projects:
+            - zippy
+            - zippy-test
+    "2025-08-13":
+        projects:
+            - scripts
