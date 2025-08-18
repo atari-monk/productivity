@@ -31,3 +31,17 @@ logs:
     "2025-08-13":
         projects:
             - scripts
+            - fullscreen-canvas-vanilla
+    "2025-08-15":
+        projects:
+            - command-box
+    "2025-08-16":
+        projects:
+            - command-box
+    "2025-08-17":
+        projects:
+            - fullscreen-canvas-vanilla
+            - fullscreen-canvas-vanilla-test
+    "2025-08-18":
+        projects:
+            - fullscreen-canvas-vanilla
