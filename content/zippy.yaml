@@ -44,7 +44,9 @@ logs:
               - Documentation with refactoring
           Time: "1h"
 
-    "2025-08-12":
+    "2025-08-19":
         - Task:
-              - 
+              -
           Time: ""
+          St: ""
+          Sp: ""
