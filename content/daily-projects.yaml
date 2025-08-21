@@ -53,3 +53,12 @@ logs:
         projects:
             - zippy
             - scenelet
+    "2025-08-21":
+        projects:
+            - zippy
+            - dev-blog
+            - scenelet
+            - rock-paper-scissors
+            - turbo-laps-scenelet
+        Time: "5h"
+        End: "18:45"

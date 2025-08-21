@@ -128,3 +128,8 @@ logs:
               - Merge zippy-test doc to this doc, no need for separete doc
               - Also zippy-shared-lib dosent need to have separete doc, merging
           Time: "2h15m"
+
+    "2025-08-21":
+        - Task:
+              - Prepare documentation for zippy-shared-lib
+          Time: "1h"

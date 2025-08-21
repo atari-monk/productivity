@@ -24,15 +24,10 @@ Example:
 ```yaml
 logs:
   "2025-07-29":
-    - Scope: Project setup
-      Task:
-        - Fixed blog scripts to categorize and order dev notes
-      Time: "1h48m"
-
-  "2025-07-30":
     - Task:
-        - Improved test coverage on utility functions
-      Time: "45m"
+        - Fixed blog scripts to categorize and order dev notes
+        - Published
+      Time: "1h48m"
 ```
 
 Schema:
@@ -40,8 +35,7 @@ Schema:
 ```yaml
 logs:
   "YYYY-MM-DD":
-    - Scope: <string>         # Optional
-      Task:
+    - Task:
         - <string>            # Required list of task descriptions
       Time: "<duration>"      # Required duration(s)
                               # single string with sum of time (e.g. "1h", "30m")

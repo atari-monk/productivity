@@ -40,3 +40,8 @@ logs:
               - Fix git history (reset history, 'Initial commit' then only 'Update content')
               - Fix index.md
               - Added new posts
+
+    "2025-08-21":
+        - Task:
+              - Flatten categories
+          Time: "5m"

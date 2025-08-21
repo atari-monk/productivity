@@ -1,23 +1,24 @@
 logs:
     "2025-07-27":
-        - Feature: Project structure
-          Task:
+        - Task:
+              - Project structure
               - Generate project
               - Moved files to project
               - Istalled 'zippy'
-              - js to ts
-              - works
-              - published
-          Agent: Human and LLM Chat
-          Start: 19:34
-          Stop: 21:37
+              - Convesion from js to ts
+              - Published
+          Time: "2h"
 
     "2025-07-28":
-        - Feature: Investigate bug of clicking not working on mobile
-          Task:
+        - Task:
+              - Investigate bug of clicking not working on mobile
               - Implemented
               - Published
               - Tested
-          Agent: Human and LLM Chat
-          Start: 08:38
-          Stop: 08:56
+          Time: "20m"
+
+    "2025-08-21":
+        - Task:
+              - Used new zippy libs versions
+              - Published version 0.0.2
+          Time: "1h"
