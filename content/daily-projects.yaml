@@ -62,3 +62,11 @@ logs:
             - turbo-laps-scenelet
         Time: "5h"
         End: "18:45"
+    "2025-08-22":
+        projects:
+            - turbo-laps
+            - diy
+            - fun
+        Time: "5h"
+        Start: "12:00"
+        End: "20:00"

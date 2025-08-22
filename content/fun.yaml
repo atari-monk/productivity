@@ -1,69 +1,58 @@
 logs:
     "2025-07-27":
-        - Feature: OpenRA - Red Alert
-          Task:
+        - Task:
+              - OpenRA - Red Alert
               - Skirmish lost to AI
-              - Skirmish won against AI turtle 50% nerfed
-          Agent: Human vs AI
-          Start: "22:47"
-          Stop: "23:53"
+              - Skirmish won against AI turtle, 50% nerfed
+          Time: "1h"
 
     "2025-07-28":
-        - Feature: OpenRA - Red Alert
-          Task:
-              - Skirmish won against AI normal 40% nerfed
-          Agent: Human vs AI
-          Start: "9:52"
-          Stop: "10:35"
+        - Task:
+              - OpenRA - Red Alert
+              - Skirmish won against AI normal, 40% nerfed
+          Time: "40m"
 
     "2025-07-29":
-        - Feature: OpenRA - Red Alert
-          Task:
-              - Skirmish against AI normal 30% nerfed, large map
-              - Skirmish against AI normal 20% nerfed, huge map, same nation
-          Agent: Human vs AI
-          Sessions:
-              - Start: "08:59"
-                Stop: "09:22"
-              - Start: "23:49"
-                Stop: "12:33"
+        - Task:
+              - OpenRA - Red Alert
+              - Skirmish against AI normal, 30% nerfed, large map
+              - Skirmish against AI normal, 20% nerfed, huge map, same nation
+          Time: "1h"
 
     "2025-07-31":
-        - Feature: OpenRA - Red Alert
-          Task:
+        - Task:
+              - OpenRA - Red Alert
               - Skirmish against AI normal, huge map, same nation, lost
-          Agent: Human vs AI
-          Sessions:
-              - Start: "16:09"
-                Stop: "16:39"
+          Time: "30m"
 
     "2025-08-01":
-        - Feature: OpenRA - Red Alert
-          Task:
+        - Task:
+              - OpenRA - Red Alert
               - Skirmish against AI normal, huge map, same nation, lost
-          Agent: Human vs AI
-          Sessions:
-              - Start: "22:46"
-                Stop: "23:10"
+          Time: "30m"
 
     "2025-08-02":
-        - Feature: OpenRA - Red Alert
-          Task:
+        - Task:
+              - OpenRA - Red Alert
               - Skirmish against AI normal, huge map, same nation, lost
-              - article said ai cheats
+              - Article said ai cheats
               - Skirmish against AI normal, huge map, same nation, 10% nerfed, won
-          Agent: Human vs AI
-          Sessions:
-              - Start: "10:22"
-                Stop: "10:43"
-              - Start: "23:43"
-                Stop: "12:19"
+          Time: "1h"
 
     "2025-08-03":
-        - Feature: OpenRA - Red Alert
-          Task:
+        - Task:
+              - OpenRA - Red Alert
               - Skirmish against AI normal, huge map, same nation, 10% nerfed, won
-          Agent: Human vs AI
-          Sessions:
-              - Start: "16:34"
-                Stop: "17:19"
+          Time: "50m"
+
+    "2025-08-21":
+        - Task:
+              - OpenRA - Red Alert
+              - Skirmish against AI normal, huge map, same nation, lost
+          Time: "20m"
+
+    "2025-08-22":
+        - Task:
+              - OpenRA - Red Alert
+              - Skirmish against AI normal, huge map, same nation, won
+          Time: "30m"
