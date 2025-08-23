@@ -25,5 +25,13 @@ logs:
 
     "2025-08-13":
         - Task:
-              - alarm scripts (cli,gui), notification after 25m
+              - Alarm scripts (cli,gui), notification after 25m
           Time: "1h30m"
+
+    "2025-08-23":
+        - Task:
+              - Convert productivity yaml log files to dev-blog projects/productivity/logs
+              - proj productivity - format fixed, dev-blog - posts generated
+              - Convert daily stats (needs format fix)
+              - New way of prompting worked out in prompting repository
+          Time: "4h40m"

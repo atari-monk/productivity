@@ -22,7 +22,8 @@ logs:
           Time: "4h"
 
     "2025-08-05":
-        - Task: Updated shared library, engine and canvas
+        - Task:
+              - Updated shared library, engine and canvas
           Time: "1h30m"
 
     "2025-08-06":
@@ -32,7 +33,8 @@ logs:
           Time: "40m"
 
     "2025-08-07":
-        - Task: Documentation
+        - Task:
+              - Documentation
           Time: "3h50m"
 
     "2025-08-08":
@@ -49,8 +51,8 @@ logs:
 
     "2025-08-14":
         - Task:
-              - fix canvas resizer bug
-              - publish new version
+              - Fix canvas resizer bug
+              - Publish new version
           Time: "1h"
 
     "2025-08-15":

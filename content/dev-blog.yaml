@@ -6,7 +6,8 @@ logs:
           Time: "1h"
 
     "2025-07-28":
-        - Task: Prompt to generate scene for 'scenelet' project
+        - Task:
+              - Prompt to generate scene for 'scenelet' project
           Time: "1h"
 
     "2025-07-30":
@@ -27,11 +28,13 @@ logs:
           Time: "1h40m"
 
     "2025-08-02":
-        - Task: Generate prompts
+        - Task:
+              - Generate prompts
           Time: "15m"
 
     "2025-08-05":
-        - Task: Reset git history
+        - Task:
+              - Reset git history
           Time: "20m"
 
     "2025-08-06":

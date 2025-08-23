@@ -33,3 +33,11 @@ logs:
         - Task:
               - Cut 2m branch x 4 with hand saw (from parents ganden cutouts)
           Time: "30m"
+
+    "2025-08-23":
+        - Task:
+              - Cut 2m, 1m20cm, 50cm branches x ~30 with hand saw
+              - From parents ganden cutouts
+              - Stored them on 2 bricks above ground
+              - Logs on the ground
+          Time: "1h30m"

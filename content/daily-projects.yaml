@@ -8,25 +8,25 @@ logs:
             - fullscreen-canvas-vanilla
     "2025-08-07":
         projects:
-            - zippy
+            - zippy-game-engine
             - fullscreen-canvas-vanilla
     "2025-08-08":
         projects:
             - fullscreen-canvas-vanilla
-            - zippy
+            - zippy-game-engine
     "2025-08-09":
         projects:
-            - zippy
+            - zippy-game-engine
     "2025-08-10":
         projects:
-            - zippy
+            - zippy-game-engine
     "2025-08-11":
         projects:
-            - zippy
+            - zippy-game-engine
             - command-box
     "2025-08-12":
         projects:
-            - zippy
+            - zippy-game-engine
             - zippy-test
     "2025-08-13":
         projects:
@@ -48,14 +48,14 @@ logs:
     "2025-08-19":
         projects:
             - fullscreen-canvas-vanilla
-            - zippy
+            - zippy-game-engine
     "2025-08-20":
         projects:
-            - zippy
+            - zippy-game-engine
             - scenelet
     "2025-08-21":
         projects:
-            - zippy
+            - zippy-game-engine
             - dev-blog
             - scenelet
             - rock-paper-scissors
@@ -70,3 +70,13 @@ logs:
         Time: "5h"
         Start: "12:00"
         End: "20:00"
+    "2025-08-23":
+        projects:
+            - diy
+            - scripts
+            - productivity
+            - dev-blog
+            - turbo-laps
+        Time: "7h"
+        Start: "10:30"
+        End: "22:30"

@@ -1,7 +1,5 @@
 logs:
     "2025-07-21":
-        - Task: Removing unused files
-          Agent: Human
-          Start: 12:46
-          Stop: 13:48
-          Commits:
+        - Task:
+              - Removing unused files
+          Time: "1h"

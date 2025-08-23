@@ -1,18 +1,25 @@
-"2025-08-21":
-    - Task:
-          - Setup project turbo-laps-scenelet (turbo-laps scenes to test features in isolation)
-          - Used zippy libs
-          - Added scenes
-          - Tested locally
-      Time: "40m"
+logs:
+    "2025-08-21":
+        - Task:
+              - Setup project turbo-laps-scenelet (turbo-laps scenes to test features in isolation)
+              - Used zippy libs
+              - Added scenes
+              - Tested locally
+          Time: "40m"
 
-"2025-08-22":
-    - Task:
-          - Setup project turbo-laps-js (this was before zippy lisbs, version with js code that works somewhat, starting point for prototyping game)
-          - Generated project 'vite-typescript-template' to speed up setup of this kinf of project
-          - Setup folder turbo-laps, made it run
-          - Setup project turbo-lap (full ts game project)
-          - Prepared elipse and rounded rectangle track scene
-          - Prepared arrow player scene (used engine input system)
-          - Extend engine to handle multiple scenes
-      Time: "4h30m"
+    "2025-08-22":
+        - Task:
+              - Setup project turbo-laps-js (this was before zippy lisbs, version with js code that works somewhat, starting point for prototyping game)
+              - Generated project 'vite-typescript-template' to speed up setup of this kinf of project
+              - Setup folder turbo-laps, made it run
+              - Setup project turbo-lap (full ts game project)
+              - Prepared elipse and rounded rectangle track scene
+              - Prepared arrow player scene (used engine input system)
+              - Extend engine to handle multiple scenes
+          Time: "4h30m"
+
+    "2025-08-23":
+        - Task:
+              - Removed old logs from fullscreen-canvas-vanilla and zippy-game-engine
+              - Scene System mode in turbo-laps-scenelet (engine runs one scene or list of scenes)
+          Time: "1h15m"

@@ -80,7 +80,8 @@ logs:
           Time: "1h50m"
 
     "2025-08-07":
-        - Task: Fix this file to comply with new format
+        - Task:
+              - Fix this file to comply with new format
           Time: "30m"
 
     "2025-08-08":

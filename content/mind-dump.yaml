@@ -1,14 +1,17 @@
 logs:
     "2025-07-20":
-        - Task: Initial project setup
+        - Task:
+              - Initial project setup
           Time: "1h"
 
     "2025-08-02":
-        - Task: New posts
+        - Task:
+              - New posts
           Time: "20m"
 
     "2025-08-05":
-        - Task: Reset git history
+        - Task:
+              - Reset git history
 
     "2025-08-06":
         - Task:

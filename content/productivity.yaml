@@ -1,6 +1,7 @@
 logs:
     "2025-07-20":
-        - Task: Initial project setup
+        - Task:
+              - Initial project setup
           Time: "1h30m"
 
     "2025-08-06":

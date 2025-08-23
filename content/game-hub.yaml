@@ -3,12 +3,9 @@ logs:
         - Task:
               - Initial project setup, vite typescript
               - Rewrite to typescript
-          Start: "17:59"
-          Stop: "20:04"
+          Time: "2h"
 
     "2025-07-21":
-        - Feature: Publish game hub into 'pages' repository
-          Task:
-              -
-          Start: "15:46"
-          Stop: "16:02"
+        - Task:
+              - Publish game hub into 'pages' repository
+          Time: "15m"
