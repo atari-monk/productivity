@@ -23,3 +23,21 @@ logs:
               - Removed old logs from fullscreen-canvas-vanilla and zippy-game-engine
               - Scene System mode in turbo-laps-scenelet (engine runs one scene or list of scenes)
           Time: "1h15m"
+
+    "2025-08-24":
+        - Task:
+              - Added starting-grid scene to turbo-laps-scenelet proj
+              - Added 2 prompts for next 2 parts
+              - Failed with track boundary
+          Time: "2h10m"
+
+    "2025-08-25":
+        - Task:
+              - Prepared prompting proj for coding in this project
+              - Set up 4 desktops, project, prompting, ai/cli, productivity, go back to 1
+              - Add track boundary scene
+              - Position car in starting grid (15m)
+              - Add road markings scene (25m)
+              - Add track grass scene (20m)
+              - Add lap tracker (35m)
+          Time: "4h"
