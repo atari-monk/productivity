@@ -41,3 +41,12 @@ logs:
               - Stored them on 2 bricks above ground
               - Logs on the ground
           Time: "1h30m"
+
+    "2025-08-26":
+        - Task:
+              - Made 2 garden planters from trees cut in lot
+              - Made 2m, 1.2m, 0,5m twigs
+              - Put them into 2 rectangles
+              - Long and short prependicular to each other
+              - Long, short, long, short and so on, on top of each other
+          Time: "1h"

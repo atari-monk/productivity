@@ -92,3 +92,10 @@ logs:
         Time: "4h"
         Start: "12:05"
         End: "22:15"
+    "2025-08-26":
+        projects:
+            - turbo-laps
+            - diy
+        Time: "4h"
+        Start: "10:30"
+        End: "22:00"

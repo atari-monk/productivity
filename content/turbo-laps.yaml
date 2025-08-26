@@ -41,3 +41,12 @@ logs:
               - Add track grass scene (20m)
               - Add lap tracker (35m)
           Time: "4h"
+
+    "2025-08-26":
+        - Task:
+              - Add game score scene (25m)
+              - Tweak size of track (10m)
+              - Stop lap tracker and provide interface to start/stop/reset it (40m)
+              - Menu Scene with title Turbo Laps, 5-Lap Time Trial, description, Start button
+              - Make Start button switch scene mode to all (1h)
+          Time: "3h"
