@@ -50,3 +50,10 @@ logs:
               - Long and short prependicular to each other
               - Long, short, long, short and so on, on top of each other
           Time: "1h"
+
+    "2025-08-27":
+        - Task:
+              - Processed couple of twigs
+              - Finished main structure
+              - Started cutting 50cm twigs for inside walls of garden bed
+          Time: "40m"

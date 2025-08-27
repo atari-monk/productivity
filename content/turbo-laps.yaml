@@ -50,3 +50,14 @@ logs:
               - Menu Scene with title Turbo Laps, 5-Lap Time Trial, description, Start button
               - Make Start button switch scene mode to all (1h)
           Time: "3h"
+
+    "2025-08-27":
+        - Task:
+              - Prompt for new scene - countdown (30m)
+              - Copy main and scenes form turbo-laps-scenelet to turbo-laps, turn main into game (15m)
+              - Make turbo-laps-scenelet only about testing single scene and multi scenes for testing feature (55m)
+              - Implement prompt (20m)
+              - Test and fix scene (15m)
+              - Initially turn off car input, turn on after Go - Prompt and implementation in scenelet and game (35m)
+              - Stop lap tracker when race is over, reset car on starting position (1h10m)
+          Time: "4h"
