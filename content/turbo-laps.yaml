@@ -61,3 +61,15 @@ logs:
               - Initially turn off car input, turn on after Go - Prompt and implementation in scenelet and game (35m)
               - Stop lap tracker when race is over, reset car on starting position (1h10m)
           Time: "4h"
+
+    "2025-08-28":
+        - Task:
+              - Scene with a canvas rendered button, to restart race (40m)
+              - Refactor turbo-laps-scenelet, move factory/register functions out of main, scene factory (50m)
+              - Prompt to refacotr factory and main properly (50m)
+              - Refactored main to using url params for selection and factory for scene generation/registration (60m)
+              - Fix factory to create independant instances for tests, integrate continue scene to multi scene test (90m)
+          Time: "290m"
+    todo:
+        - off track feature needs rework
+        - Countdown should turn on input on GO
