@@ -70,6 +70,14 @@ logs:
               - Refactored main to using url params for selection and factory for scene generation/registration (60m)
               - Fix factory to create independant instances for tests, integrate continue scene to multi scene test (90m)
           Time: "290m"
-    todo:
-        - off track feature needs rework
-        - Countdown should turn on input on GO
+    "2025-08-29":
+        - Task:
+              - Fixed restarting race in test (25m)
+              - Fixed bug in registerMultiScene (15m)
+              - Refactor prompting again, remove md, ps1 pairs (to clumsy to use) and define prompts in single ps1 per project file, prompt data model and nice execution helpers (140m)
+              - Fix sectors in lap tracker (15m)
+              - Fix prompts and scripts for tools in prompting proj (15m)
+              - Fix Countdown prompting scripts (10m)
+              - Countdown should turn on car input on GO, not after GO (20m)
+              - Run all tests and fix configs and some callbacks (95m)
+          Time: "5h35m"
