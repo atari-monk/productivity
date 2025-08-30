@@ -118,3 +118,9 @@ logs:
         Time: "5h35m"
         Start: "12:00"
         End: "23:10"
+    "2025-08-30":
+        projects:
+            - turbo-laps
+        Time: "4h45m"
+        Start: "14:15"
+        End: "23:25"

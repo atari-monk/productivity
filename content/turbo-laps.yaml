@@ -69,7 +69,8 @@ logs:
               - Prompt to refacotr factory and main properly (50m)
               - Refactored main to using url params for selection and factory for scene generation/registration (60m)
               - Fix factory to create independant instances for tests, integrate continue scene to multi scene test (90m)
-          Time: "290m"
+          Time: "4h50m"
+
     "2025-08-29":
         - Task:
               - Fixed restarting race in test (25m)
@@ -81,3 +82,10 @@ logs:
               - Countdown should turn on car input on GO, not after GO (20m)
               - Run all tests and fix configs and some callbacks (95m)
           Time: "5h35m"
+
+    "2025-08-30":
+        - Task:
+              - Copy scenes form scenelet to game (10m)
+              - Refactor prompting proj, archive old version, prompt model 0.0.1 (2h50m)
+              - Refactor scene-factory (1h45m)
+          Time: "4h45m"
