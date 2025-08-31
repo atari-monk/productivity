@@ -89,3 +89,13 @@ logs:
               - Refactor prompting proj, archive old version, prompt model 0.0.1 (2h50m)
               - Refactor scene-factory (1h45m)
           Time: "4h45m"
+
+    "2025-08-31":
+        - Task:
+              - Thinkig what to do with yt in background (1h)
+              - Test ElipseTrack, RectangleTrack scene, in isolation as single scene (20m)
+              - Test ArrowPlayer scene, in isolation as single scene (10m)
+              - Test TrackBoundary scene, in isolation as single scene (50m)
+              - Test StartingGrid, in isolation as single scene (30m)
+              - TrackConfigService singleton extracted and used in scenes (6 scenes) (4h)
+          Time: "6h50m"
