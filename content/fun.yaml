@@ -56,3 +56,10 @@ logs:
               - OpenRA - Red Alert
               - Skirmish against AI normal, huge map, same nation, won
           Time: "30m"
+
+    "2025-09-01":
+        - Task:
+              - OpenRA - Red Alert
+              - Skirmish against AI normal, huge map, same nation, lost on wall building
+              - Skirmish against AI normal, huge map, same nation, won on building
+          Time: "1h"

@@ -57,3 +57,10 @@ logs:
               - Finished main structure
               - Started cutting 50cm twigs for inside walls of garden bed
           Time: "40m"
+
+    "2025-09-01":
+        - Task:
+              - Took bark of from log (1h)
+              - Made diy mill out of ladder, wooden tray and chainsaw but parts dont fit, but it was close, this could be done (30m)
+              - Took bark of from log (30m)
+          Time: "2h"

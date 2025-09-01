@@ -99,3 +99,12 @@ logs:
               - Test StartingGrid, in isolation as single scene (30m)
               - TrackConfigService singleton extracted and used in scenes (6 scenes) (4h)
           Time: "6h50m"
+
+    "2025-09-01":
+        - Task:
+              - Refactor TrackGrass scene to use track config service and test it as single scene in isolation (15m)
+              - Refactor LapTracker to test it with no dependencies on other scenes (55m)
+              - Mouse Currsor scene, click to get mouse pos (15m)
+          Time: "1h25m"
+          St: ""
+          Sp: ""
