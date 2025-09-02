@@ -106,5 +106,18 @@ logs:
               - Refactor LapTracker to test it with no dependencies on other scenes (55m)
               - Mouse Currsor scene, click to get mouse pos (15m)
           Time: "1h25m"
+
+    "2025-09-02":
+        - Task:
+              - Functional multiSceneFactory (25m)
+              - Add rendering points to Mouse Currsor scene
+                - Prompts written (25m)
+                - Better prompt system hepled to implement (25m)
+          Time: "1h15m"
+
+    "2025-xx-xx":
+        - Task:
+              -
+          Time: ""
           St: ""
           Sp: ""
