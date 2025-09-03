@@ -16,3 +16,7 @@
 - New file format
 - Docs
 - Scripts for automation
+
+## Session 2025-09-03 19:36 - 20:58 1h 22m
+
+- Convert files from format-1 to format-2

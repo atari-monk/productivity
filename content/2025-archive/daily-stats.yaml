@@ -1,0 +1,183 @@
+logs:
+    "2025-08-06":
+        projects:
+            - productivity
+            - mind-dump
+            - dev-blog
+            - zippy-shared-lib
+            - fullscreen-canvas-vanilla
+
+    "2025-08-07":
+        projects:
+            - zippy-game-engine
+            - fullscreen-canvas-vanilla
+
+    "2025-08-08":
+        projects:
+            - fullscreen-canvas-vanilla
+            - zippy-game-engine
+
+    "2025-08-09":
+        projects:
+            - zippy-game-engine
+
+    "2025-08-10":
+        projects:
+            - zippy-game-engine
+
+    "2025-08-11":
+        projects:
+            - zippy-game-engine
+            - command-box
+
+    "2025-08-12":
+        projects:
+            - zippy-game-engine
+            - zippy-test
+
+    "2025-08-13":
+        projects:
+            - scripts
+            - fullscreen-canvas-vanilla
+
+    "2025-08-15":
+        projects:
+            - command-box
+
+    "2025-08-16":
+        projects:
+            - command-box
+
+    "2025-08-17":
+        projects:
+            - fullscreen-canvas-vanilla
+            - fullscreen-canvas-vanilla-test
+
+    "2025-08-18":
+        projects:
+            - fullscreen-canvas-vanilla
+
+    "2025-08-19":
+        projects:
+            - fullscreen-canvas-vanilla
+            - zippy-game-engine
+
+    "2025-08-20":
+        projects:
+            - zippy-game-engine
+            - scenelet
+
+    "2025-08-21":
+        projects:
+            - zippy-game-engine
+            - dev-blog
+            - scenelet
+            - rock-paper-scissors
+            - turbo-laps-scenelet
+        Time: "5h"
+        End: "18:45"
+
+    "2025-08-22":
+        projects:
+            - turbo-laps
+            - diy
+            - fun
+        Time: "5h"
+        Start: "12:00"
+        End: "20:00"
+
+    "2025-08-23":
+        projects:
+            - diy
+            - scripts
+            - productivity
+            - dev-blog
+            - turbo-laps
+        Time: "7h"
+        Start: "10:30"
+        End: "22:30"
+
+    "2025-08-24":
+        projects:
+            - turbo-laps
+        Time: "2h"
+        Start: "10:40"
+        End: "22:00"
+
+    "2025-08-25":
+        projects:
+            - turbo-laps
+        Time: "4h"
+        Start: "12:05"
+        End: "22:15"
+
+    "2025-08-26":
+        projects:
+            - turbo-laps
+            - diy
+        Time: "4h"
+        Start: "10:30"
+        End: "22:00"
+
+    "2025-08-27":
+        projects:
+            - turbo-laps
+            - diy
+        Time: "4h40m"
+        Start: "12:20"
+        End: "22:00"
+
+    "2025-08-28":
+        projects:
+            - turbo-laps
+        Time: "4h50m"
+        Start: "12:10"
+        End: "21:50"
+
+    "2025-08-29":
+        projects:
+            - turbo-laps
+        Time: "5h35m"
+        Start: "12:00"
+        End: "23:10"
+
+    "2025-08-30":
+        projects:
+            - turbo-laps
+        Time: "4h45m"
+        Start: "14:15"
+        End: "23:25"
+
+    "2025-08-31":
+        projects:
+            - turbo-laps
+            - prompting
+        Time: "7h30m"
+        Start: "15:00"
+        End: "01:00"
+
+    "2025-09-01":
+        projects:
+            - diy
+            - turbo-laps
+            - prompting
+            - fun
+        Time: "5h"
+        Start: "11:30"
+        End: "19:10"
+
+    "2025-09-02":
+        projects:
+            - turbo-laps
+            - prompting
+        Time: "5h15m"
+        Start: "13:15"
+        End: "22:50"
+
+    "2025-09-03":
+        projects:
+            - fun
+            - productivity
+        Time: ""
+        Start: "10:20"
+        End: ""

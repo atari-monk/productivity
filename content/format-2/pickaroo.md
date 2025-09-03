@@ -1,0 +1,34 @@
+# pickaroo
+
+## Session 2025-07-23 5h 30m
+
+- Project Structure
+- Initial project setup
+- Building lib with vite
+- Tested ui components with mock game object
+- Project structure changes
+- Generic ui container
+- Refactoring of components
+- Fit to container, types more consistent with each other
+- Making selector more generic
+- Filed to run
+
+## Session 2025-07-24 3h 0m
+
+- Making it run
+- Tested Toogle Button
+- Test Toogle Button component
+- Project 'pickaroo-test'
+- Splitting wood before this, teached me a lesson
+- Separate pickaroo test project
+- Test for toogle button
+- Test Selector component
+- Test draft
+- Test Log component
+- Test draft
+
+## Session 2025-07-27 3h 0m
+
+- Test Container component
+- Test draft
+- Was not visible due to styles

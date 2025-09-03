@@ -1,0 +1,11 @@
+logs:
+    "2025-07-20":
+        - Task:
+              - Initial project setup, vite typescript
+              - Rewrite to typescript
+          Time: "2h"
+
+    "2025-07-21":
+        - Task:
+              - Publish game hub into 'pages' repository
+          Time: "15m"

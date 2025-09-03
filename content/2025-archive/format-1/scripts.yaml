@@ -1,0 +1,37 @@
+logs:
+    "2025-07-24":
+        - Task:
+              - Initial project setup
+              - Proper project files with console scripts
+              - Generated and improved focus_drone script
+              - Incrementally timestamps task list to log file
+          Time: "1h30m"
+
+    "2025-07-28":
+        - Task:
+              - Script to generate 'index.md' for 'dev-blog'
+              - Generated prompt
+              - Doc generate-blog-index-requirements.md
+              - Generated script and refactored multiple times
+              - Used script to 'dev-blog'
+              - Updated custom template for 'dev-blog' github pages
+          Time: "1h30m"
+
+    "2025-08-02":
+        - Task:
+              - Blog inxed in new format
+              - Index for each level of file system
+          Time: "1h30m"
+
+    "2025-08-13":
+        - Task:
+              - Alarm scripts (cli,gui), notification after 25m
+          Time: "1h30m"
+
+    "2025-08-23":
+        - Task:
+              - Convert productivity yaml log files to dev-blog projects/productivity/logs
+              - proj productivity - format fixed, dev-blog - posts generated
+              - Convert daily stats (needs format fix)
+              - New way of prompting worked out in prompting repository
+          Time: "4h40m"

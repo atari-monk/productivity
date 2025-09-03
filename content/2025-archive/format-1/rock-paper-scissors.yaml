@@ -1,0 +1,24 @@
+logs:
+    "2025-07-27":
+        - Task:
+              - Project structure
+              - Generate project
+              - Moved files to project
+              - Istalled 'zippy'
+              - Convesion from js to ts
+              - Published
+          Time: "2h"
+
+    "2025-07-28":
+        - Task:
+              - Investigate bug of clicking not working on mobile
+              - Implemented
+              - Published
+              - Tested
+          Time: "20m"
+
+    "2025-08-21":
+        - Task:
+              - Used new zippy libs versions
+              - Published version 0.0.2
+          Time: "1h"

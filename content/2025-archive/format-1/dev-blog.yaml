@@ -1,0 +1,50 @@
+logs:
+    "2025-07-21":
+        - Task:
+              - Initial project setup
+              - Doc to setup 'fullscreen-canvas' project
+          Time: "1h"
+
+    "2025-07-28":
+        - Task:
+              - Prompt to generate scene for 'scenelet' project
+          Time: "1h"
+
+    "2025-07-30":
+        - Task:
+              - Refactored prompts collection
+              - Standarized format
+              - Many new prompts
+              - Better names
+              - Categorized
+              - Script tool to generate new files
+              - Doc on LLM chats
+          Time: "3h"
+
+    "2025-07-31":
+        - Task:
+              - Prompts for generating documentations of code base
+              - Added notes from chatting with LLM
+          Time: "1h40m"
+
+    "2025-08-02":
+        - Task:
+              - Generate prompts
+          Time: "15m"
+
+    "2025-08-05":
+        - Task:
+              - Reset git history
+          Time: "20m"
+
+    "2025-08-06":
+        - Task:
+              - Fix this file to comply with new format
+              - Fix git history (reset history, 'Initial commit' then only 'Update content')
+              - Fix index.md
+              - Added new posts
+
+    "2025-08-21":
+        - Task:
+              - Flatten categories
+          Time: "5m"
