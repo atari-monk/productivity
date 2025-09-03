@@ -69,3 +69,8 @@ logs:
               - OpenRA - Red Alert
               - Skirmish against AI normal, huge map, same nation, top of map, fair map placement (before no simetry), lost, won
           Time: "1h"
+
+    "2025-09-03":
+        - Task:
+              - Skirmish against AI normal, huge map, same nation, top of map, fair map placement, lost, lost
+          Time: "40m"
