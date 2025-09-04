@@ -16,3 +16,7 @@
 - In new main, load template prompt and merge with core data from prompt (40m)
 - Remove previous stage and introduce new one, new concept for this tool (50m)
 - Introduced functions and main with structured flow, removed props not used in prompt, removed big bugs (2h30m)
+
+## Session 2025-09-03 22:17 - 22:35 0h 18m
+
+- Clean docs a bit

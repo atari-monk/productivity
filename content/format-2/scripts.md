@@ -31,3 +31,15 @@
 - proj productivity - format fixed, dev-blog - posts generated
 - Convert daily stats (needs format fix)
 - New way of prompting worked out in prompting repository
+
+## Session 2025-09-04 07:39 - 07:52 0h 13m
+
+- Productivity Proj-log script entry point
+
+## Session 2025-09-04 07:54 - 08:30 0h 36m
+
+- Prompting prompt_tool script entry point
+
+## Session 2025-09-04 08:30 - 08:41 0h 11m
+
+- Productivity Convert script entry point
