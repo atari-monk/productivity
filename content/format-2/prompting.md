@@ -20,3 +20,9 @@
 ## Session 2025-09-03 22:17 - 22:35 0h 18m
 
 - Clean docs a bit
+
+## Session 2025-09-04 20:32 - 22:57 2h 25m
+
+- Prepare prompts for projects
+- Did 2 new scripts and fixed scripts registers
+- Tested functionality prompt

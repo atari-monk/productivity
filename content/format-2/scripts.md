@@ -43,3 +43,13 @@
 ## Session 2025-09-04 08:30 - 08:41 0h 11m
 
 - Productivity Convert script entry point
+
+## Session 2025-09-04 17:49 - 18:23 0h 34m
+
+- Script to run command-box
+
+## Session 2025-09-05 12:34 - 14:17 1h 43m
+
+- Script to move productivity logs to blog
+- First collect source/destination paths
+- Script to copy logs and push dev-blog

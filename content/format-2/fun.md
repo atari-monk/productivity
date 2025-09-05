@@ -67,7 +67,14 @@
 ## Session 2025-09-03 22:38 - 00:02 1h 24m
 
 - Skirmish against AI normal, huge map, same nation, top of map, 4x lost
+
 ## Session 2025-09-04 06:46 - 07:38 0h 52m
 
 - Skirmish against AI normal, huge map, same nation, top of map
 - Won with wall strategy
+
+## Session 2025-09-05 11:30 - 12:07 0h 37m
+
+- Skirmish against AI normal, huge map, same nation, top of map
+- Seem like wall strategy works every time
+- Should move wall to enemy next time

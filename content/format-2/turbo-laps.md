@@ -102,3 +102,22 @@
 - Add rendering points to Mouse Currsor scene 
 - Prompts written (25m) 
 - Better prompt system hepled to implement (25m)
+
+## Session 2025-09-04 10:05 - 11:20 1h 15m
+
+- Scene instance factory
+- Ai said its nice 3 SOLID factories
+- Instance, single scene test, multi scene test, factories
+
+## Session 2025-09-04 13:22 - 13:49 0h 27m
+
+- Refactor next multi scene test
+
+## Session 2025-09-04 13:59 - 14:20 0h 21m
+
+- Refactor next multi scene test
+
+## Session 2025-09-04 16:18 - 17:12 0h 54m
+
+- Refactor next multi scene test
+- Acctually 2 done
