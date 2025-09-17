@@ -26,3 +26,10 @@
 - Prepare prompts for projects
 - Did 2 new scripts and fixed scripts registers
 - Tested functionality prompt
+## Session 2025-09-09 20:14 - 20:24 0h 10m
+
+- Code review promt
+
+## Session 2025-09-10 10:29 - 10:42 0h 13m
+
+- Name optimizer prompt

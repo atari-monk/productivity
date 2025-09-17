@@ -53,3 +53,24 @@
 - Script to move productivity logs to blog
 - First collect source/destination paths
 - Script to copy logs and push dev-blog
+
+## Session 2025-09-06 18:15 - 18:55 0h 40m
+
+- Renames
+
+## Session 2025-09-06 18:55 - 19:32 0h 37m
+
+- Script to open prompting files, renames, archive not used scripts
+
+## Session 2025-09-09 20:29 - 21:58 1h 29m
+
+- Clipboard for prompt_tool
+
+## Session 2025-09-10 11:47 - 13:37 1h 50m
+
+- Work on prompt scripts
+- Improved by moving prompt form queue to history in separate script
+
+## Session 2025-09-12 15:11 - 17:50 2h 39m
+
+- Script calculating bills

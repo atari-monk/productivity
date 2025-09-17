@@ -78,3 +78,16 @@
 - Skirmish against AI normal, huge map, same nation, top of map
 - Seem like wall strategy works every time
 - Should move wall to enemy next time
+## Session 2025-09-05 20:29 - 21:00 0h 31m
+
+- Skirmish against AI normal, huge map, same nation, top of map
+- Won with movig wall, with ease
+- I could do more pressure
+
+## Session 2025-09-06 23:09 - 23:43 0h 34m
+
+- Could won faster
+
+## Session 2025-09-07 12:55 - 13:22 0h 27m
+
+- Won, 2 walls, one moving one in base

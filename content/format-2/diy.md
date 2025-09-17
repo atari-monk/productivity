@@ -61,3 +61,15 @@
 
 - I have no say on the plot therfore i concluded i wont do anything here, no point
 - No need for pointless slavery among brainwashed
+
+## Session 2025-09-16 17:30 - 18:00 0h 30m
+
+- Glued friction stoppers in my laptop rotating articulated arm
+
+## Session 2025-09-17 10:45 - 11:15 0h 30m
+
+- Removed rods from rotating articulated arm
+
+## Session 2025-09-17 20m
+
+- Bolted back up laptop rotating articulated arm with 2 arms
