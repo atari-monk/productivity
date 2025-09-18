@@ -1,19 +1,31 @@
-The proj-log file had format 
+Write ps1 script to convert big file witch snippet looks like:
 
 ```md
-# project-name
+# assets
 
-## Session yyyy-mm-dd hh:mm - hh:mm xh ym
+## Session 2025-07-20 1h 0m
 
-- some note
-- some note
-- some note
+- Categorized assets in folder
+
+# blender
+
+## Session 2025-09-13 13:20 - 14:13 0h 53m
+
+- Script generating building materials model
 ```
 
-I want to make new format working well with cli tool to automate logs  
-I want one command handle logging  
-For example:
+To this
 
-```sh
-
+```txt
+2025-07-20 09:00 assets
+Categorized assets in folder
+2025-07-20 10:00
+2025-09-13 13:20 blender
+Script generating building materials model
+2025-09-13 14:13
 ```
+
+So where there is only duration we must convert it to time based notation
+
+Make it chronological (md is not)
+I dont trust regex, can it be done without it ?
