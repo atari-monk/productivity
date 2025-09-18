@@ -872,16 +872,16 @@
 ## Session 2025-09-11 11:08 - 12:31 1h 23m
 
 - Drafted 3 tasks (11:32)
-- Part of first task done (12:26)
+- Refactor car class by extracting CarStateContext (12:26)
 
 ## Session 2025-09-11 13:16 - 13:57 0h 41m
 
-- second part of first task done (13:39)
-- third, last part of refactoring car task, time to switch
+- Refactor car class by extracting CarRenderer (13:39)
+- Refactor car class by extracting CarInputHandler
 
 ## Session 2025-09-11 14:36 - 15:14 0h 38m
 
-- started next task, break for lunch (15:14)
+- Joystic for mobile touch controll (15:14)
 
 ## Session 2025-09-11 16:31 - 17:20 0h 49m
 
@@ -897,43 +897,38 @@
 
 ## Session 2025-09-12 21:47 - 22:14 0h 27m
 
-- XY joystic test
+- Create obj with no rotation to test full 360 deg joystick
 
 ## Session 2025-09-13 11:11 - 12:14 1h 3m
 
-- 2 joystick steer car
+- Create joystic on x and y axis to controll obj with rotation and acceleration
 
 ## Session 2025-09-13 14:56 - 16:13 1h 17m
 
-- plan 3
+- Game types to select pc or mobile game version
 
 ## Session 2025-09-13 18:11 - 18:46 0h 35m
 
-- plan 4
+- Scene testing 2 joystics for game car
 
 ## Session 2025-09-13 20:01 - 20:11 0h 10m
 
-- plan 5
+- Game for mobile
 
 ## Session 2025-09-13 21:01 - 21:34 0h 33m
 
-- plan 6
+- Mobile game project
 
 ## Session 2025-09-13 23:05 - 00:25 1h 20m
 
-- plan 7
-- failed, touch is not easy, prepare simpler scene
-
 ## Session 2025-09-14 10:21 - 10:55 0h 34m
-
-- prompt for plan 1, fail
 
 ## Session 2025-09-14 11:16 - 14:34 3h 18m
 
-- it is quite hard to do anything, project got a bit bigger, time to refactor ?
-- splited main to 2 clases (12:13)
-- refactoring url params, moved functions, rename (12:53)
-- refactored to new entity tester, it is setup to test scenes and groups of them, also games (selected groups) (14:34)
+- It is quite hard to do anything, project got a bit bigger, time to refactor ?
+- Splited main to 2 clases (12:13)
+- Refactoring url params, moved functions, rename (12:53)
+- Refactored to new entity tester, it is setup to test scenes and groups of them, also games (selected groups) (14:34)
 
 ## Session 2025-09-14 16:57 - 18:53 1h 56m
 
@@ -945,65 +940,68 @@
 
 ## Session 2025-09-15 10:12 - 11:08 0h 56m
 
-- plan 1
+- Nice navigation system speeding up scenes selection for tests
 
 ## Session 2025-09-15 12:00 - 13:02 1h 2m
 
-- plan 2
-- some ai plan failed (12:45)
-- next ai seems to fixed problem
+- Fix scenes with virtual joystick
 
 ## Session 2025-09-15 13:39 - 13:53 0h 14m
 
-- plan 3
+- Fix mobile menu btn to work with toutch
 
 ## Session 2025-09-15 13:56 - 14:15 0h 19m
 
-- plan 4
+- Move toutch system to engine, use it in turbo-laps project, update project files for mobile game version
 
 ## Session 2025-09-15 14:16 - 14:35 0h 19m
 
-- plan 5
+- Publish turbo-laps as github page
 
 ## Session 2025-09-15 15:00 - 15:42 0h 42m
 
-- plan 6
+- Refactor joystick to be self contained in its folder, moved types to classes they define
 
 ## Session 2025-09-15 16:10 - 17:16 1h 6m
 
-- plan 7-11
+- Fix virtual joystic scene
+- Fix steerable rect scene
+- Fix test car scene
+- Fix draw a point scene
+- Fix sound scene
 
 ## Session 2025-09-15 17:48 - 19:58 2h 10m
 
-- plan 12, car sound exception removed, sounds states are a big problem, need extensive debug and refactor
+- Find out what is the problem with car sounds, car sound exception removed, sounds states are a big problem, need extensive debug and refactor
 
 ## Session 2025-09-15 22:05 - 23:18 1h 13m
 
-- plan 13
+- Research engine sound state
 
 ## Session 2025-09-16 13:04 - 15:23 2h 19m
 
-- plan 1, 2
+- Remove all not needed props form car class
+- Have only 3 dependencies in car ctor
 
 ## Session 2025-09-16 16:30 - 17:30 1h
 
-- plan 1, 2
+- Continue
 
 ## Session 2025-09-16 22:05 - 23:20 1h 15m
 
-- plan 1, 2
+- Continue
 
 ## Session 2025-09-17 11:37 - 14:16 2h 39m
 
-- plan 1
+- Engine sound class, production quality
 
 ## Session 2025-09-17 16:46 - 17:18 0h 32m
 
-- plan 2
+- Crash sound class
 
 ## Session 2025-09-17 18:20 - 19:00 0h 40m
 
-- plan 3
+- Skid sound class
 
 # zippy-game-engine
 
@@ -1113,3 +1111,11 @@
 ## Session 2025-08-21 1h 0m
 
 - Prepare documentation for zippy-shared-lib
+
+# backlog
+
+## Session 2025-09-17
+
+- Prep code and script for fast publishing mobile version
+- Make restart btn mobile ready
+- Menu for rock-paper-scissors for human vs ai, human vs human

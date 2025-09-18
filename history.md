@@ -1,4 +1,4 @@
-# Productivity Project Evolution
+# Productivity Project History
 
 This is a 'productivity' support repository.  
 The point is to measure projects development with logs.
@@ -15,7 +15,7 @@ logs:
     - Task:
         - <string>            # Required list of task descriptions
       Time: "<duration>"      # Required duration(s)
-                              # single string with sum of time (e.g. "1h", "30m")
+                              # single string with sum of time (e.g. "1h10m", "30m")
 ```
 
 Drawbacks: To much mannual editing of text files
@@ -31,7 +31,7 @@ File format:
 ```md
 # project-name
 
-## Session 2025-09-03 14:40 - 14:50 0h 10m
+## Session yyyy-mm-dd hh:mm - hh:mm xh ym
 
 - some note
 - some note
@@ -51,7 +51,25 @@ Requirements:
 
 ---
 
-[Usage](log-usage.md)
+#### CLI Usage
+
+## Start Session:
+
+```sh
+proj-log project-name -start
+```
+
+## Add Session Note:
+
+```sh
+proj-log project-name -note "bla bla"
+```
+
+## End Session: 
+
+```sh
+proj-log project-name -end
+```
 
 ### Conversion tool for format 1 -> 2
 
