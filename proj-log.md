@@ -1,6 +1,6 @@
 # assets
 
-## Session 2025-07-20 1h 0m
+## Session 2025-07-20 11:16 - 12:16 1h 0m
 
 - Categorized assets in folder
 
@@ -12,86 +12,86 @@
 
 # command-box
 
-## Session 2025-08-11 1h 15m
+## Session 2025-08-11 15:33 - 16:48 1h 15m
 
 - Added posts in dev-blog
 - Setup project
 
-## Session 2025-08-15 2h 40m
+## Session 2025-08-15 10:36 - 13:16 2h 40m
 
 - It kind of works but i bite on to much that i can chew, ai creeping features in
 - Need to only do command object first and then add relation with tag, not both at once
 - Fixed MVP doc so it should be doable with no problems now
 - App from mvp doc worked, but needs one more run to make it faster
 
-## Session 2025-08-16 0h 40m
+## Session 2025-08-16 15:20 - 16:00 0h 40m
 
 - MVP doc implemented in acceptable time
 - Fixed details in doc
 
 # fun
 
-## Session 2025-07-27 1h 0m
+## Session 2025-07-27 16:49 - 17:49 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish lost to AI
 - Skirmish won against AI turtle, 50% nerfed
 
-## Session 2025-07-28 0h 40m
+## Session 2025-07-28 15:51 - 16:31 0h 40m
 
 - OpenRA - Red Alert
 - Skirmish won against AI normal, 40% nerfed
 
-## Session 2025-07-29 1h 0m
+## Session 2025-07-29 10:35 - 11:35 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, 30% nerfed, large map
 - Skirmish against AI normal, 20% nerfed, huge map, same nation
 
-## Session 2025-07-31 0h 30m
+## Session 2025-07-31 10:00 - 10:30 0h 30m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 
-## Session 2025-08-01 0h 30m
+## Session 2025-08-01 13:29 - 13:59 0h 30m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 
-## Session 2025-08-02 1h 0m
+## Session 2025-08-02 11:26 - 12:26 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 - Article said ai cheats
 - Skirmish against AI normal, huge map, same nation, 10% nerfed, won
 
-## Session 2025-08-03 0h 50m
+## Session 2025-08-03 15:27 - 16:17 0h 50m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, 10% nerfed, won
 
-## Session 2025-08-21 0h 20m
+## Session 2025-08-21 12:02 - 12:22 0h 20m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 
-## Session 2025-08-22 0h 30m
+## Session 2025-08-22 09:11 - 09:41 0h 30m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, won
 
-## Session 2025-09-01 1h 0m
+## Session 2025-09-01 12:14 - 13:14 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost on wall building
 - Skirmish against AI normal, huge map, same nation, won on building
 
-## Session 2025-09-02 1h 0m
+## Session 2025-09-02 13:35 - 14:35 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, top of map, fair map placement (before no simetry), lost, won
 
-## Session 2025-09-03 0h 40m
+## Session 2025-09-03 11:42 - 12:22 0h 40m
 
 - Skirmish against AI normal, huge map, same nation, top of map, lost, lost
 
@@ -125,16 +125,16 @@
 
 # dev-blog
 
-## Session 2025-07-21 1h 0m
+## Session 2025-07-21 15:36 - 16:36 1h 0m
 
 - Initial project setup
 - Doc to setup 'fullscreen-canvas' project
 
-## Session 2025-07-28 1h 0m
+## Session 2025-07-28 15:30 - 16:30 1h 0m
 
 - Prompt to generate scene for 'scenelet' project
 
-## Session 2025-07-30 3h 0m
+## Session 2025-07-30 15:02 - 18:02 3h 0m
 
 - Refactored prompts collection
 - Standarized format
@@ -144,50 +144,50 @@
 - Script tool to generate new files
 - Doc on LLM chats
 
-## Session 2025-07-31 1h 40m
+## Session 2025-07-31 16:56 - 18:36 1h 40m
 
 - Prompts for generating documentations of code base
 - Added notes from chatting with LLM
 
-## Session 2025-08-02 0h 15m
+## Session 2025-08-02 11:10 - 11:25 0h 15m
 
 - Generate prompts
 
-## Session 2025-08-05 0h 20m
+## Session 2025-08-05 14:28 - 14:48 0h 20m
 
 - Reset git history
 
-## Session 2025-08-06 0h 0m
+## Session 2025-08-06 14:22 - 14:22 0h 0m
 
 - Fix this file to comply with new format
 - Fix git history (reset history, 'Initial commit' then only 'Update content')
 - Fix index.md
 - Added new posts
 
-## Session 2025-08-21 0h 5m
+## Session 2025-08-21 15:44 - 15:49 0h 5m
 
 - Flatten categories
 
 # diy
 
-## Session 2025-07-21 2h 30m
+## Session 2025-07-21 14:10 - 16:40 2h 30m
 
 - Tray for laptop, for articulated arm
 
-## Session 2025-07-25 10h 30m
+## Session 2025-07-25 16:50 - 27:20 10h 30m
 
 - Rotating base for articulated arm
 - Sorting trash in garage full of trash
 - Taking out cart to wheel table saw
 - Drilling, gluing, table saw cutting
 
-## Session 2025-07-26 12h 0m
+## Session 2025-07-26 13:43 - 25:43 12h 0m
 
 - Rotating base for articulated arm
 - 4 threaded rods to connect arm to base
 - Glued plywood blocks to friction hold arms in place
 
-## Session 2025-08-04 4h 20m
+## Session 2025-08-04 14:41 - 19:01 4h 20m
 
 - Hand saw bench
 - Cut >= 10x10 wood for legs with Table saw
@@ -196,18 +196,18 @@
 - Helped parents to bolt in their sitting bench, metal legs to boards
 - Cut little boards, for phone stand articulated arm, with new hand saw bench
 
-## Session 2025-08-22 0h 30m
+## Session 2025-08-22 09:11 - 09:41 0h 30m
 
 - Cut 2m branch x 4 with hand saw (from parents ganden cutouts)
 
-## Session 2025-08-23 1h 30m
+## Session 2025-08-23 12:07 - 13:37 1h 30m
 
 - Cut 2m, 1m20cm, 50cm branches x ~30 with hand saw
 - From parents garden cutouts
 - Stored them on 2 bricks above ground
 - Logs on the ground
 
-## Session 2025-08-26 1h 0m
+## Session 2025-08-26 12:28 - 13:28 1h 0m
 
 - Made 2 garden planters from trees cut in lot
 - Made 2m, 1.2m, 0,5m twigs
@@ -215,19 +215,19 @@
 - Long and short prependicular to each other
 - Long, short, long, short and so on, on top of each other
 
-## Session 2025-08-27 0h 40m
+## Session 2025-08-27 11:48 - 12:28 0h 40m
 
 - Processed couple of twigs
 - Finished main structure
 - Started cutting 50cm twigs for inside walls of garden bed
 
-## Session 2025-09-01 2h 0m
+## Session 2025-09-01 09:41 - 11:41 2h 0m
 
 - Took bark of from log (1h)
 - Made diy mill out of ladder, wooden tray and chainsaw but parts dont fit, but it was close, this could be done (30m)
 - Took bark of from log (30m)
 
-## Session 2025-09-02 0h 0m
+## Session 2025-09-02 10:49 - 10:49 0h 0m
 
 - I have no say on the plot therfore i concluded i wont do anything here, no point
 - No need for pointless slavery among brainwashed
@@ -246,11 +246,11 @@
 
 # fullscreen-canvas
 
-## Session 2025-07-21 0h 15m
+## Session 2025-07-21 13:28 - 13:43 0h 15m
 
 - Reading current codebase
 
-## Session 2025-07-29 8h 15m
+## Session 2025-07-29 12:49 - 21:04 8h 15m
 
 - Clean it up and publish
 - Removed github page, docs
@@ -265,12 +265,12 @@
 - Initial vanilla implementation based on react 'fullscreen-canvas' component
 - Integrated 'zippy' and 'fullscreen-canvas-vanilla' components in 'zippy-test' project
 
-## Session 2025-07-30 1h 30m
+## Session 2025-07-30 10:21 - 11:51 1h 30m
 
 - Scripts 'code_to_md' and 'clipboard_collector'
 - Documenting code base
 
-## Session 2025-07-31 4h 0m
+## Session 2025-07-31 15:44 - 19:44 4h 0m
 
 - Made classes more SRP
 - Fixed factory
@@ -278,62 +278,62 @@
 - Fixed engine hook
 - Refactor project structure
 
-## Session 2025-08-05 1h 30m
+## Session 2025-08-05 12:44 - 14:14 1h 30m
 
 - Updated shared library, engine and canvas
 
-## Session 2025-08-06 0h 40m
+## Session 2025-08-06 10:28 - 11:08 0h 40m
 
 - Fix this file to comply with new format and same for projects active today
 - Fix git history (reset history, 'Initial commit')
 
-## Session 2025-08-07 3h 50m
+## Session 2025-08-07 12:57 - 16:47 3h 50m
 
 - Documentation
 
-## Session 2025-08-08 2h 0m
+## Session 2025-08-08 13:24 - 15:24 2h 0m
 
 - Documentation
 - Small Refactor during documentation
 
-## Session 2025-08-13 0h 50m
+## Session 2025-08-13 14:40 - 15:30 0h 50m
 
 - Setup vite test project fullscreen-canvas-vanilla-test
 - Need to update npm with canvas resizer bug fix
 
-## Session 2025-08-14 1h 0m
+## Session 2025-08-14 09:42 - 10:42 1h 0m
 
 - Fix canvas resizer bug
 - Publish new version
 
-## Session 2025-08-15 0h 5m
+## Session 2025-08-15 10:42 - 10:47 0h 5m
 
 - Fixed css of component witch is crucial to its function
 
-## Session 2025-08-17 2h 30m
+## Session 2025-08-17 10:47 - 13:17 2h 30m
 
 - Documentation update for canvas resizer
 - Added usage instructions
 
-## Session 2025-08-18 3h 0m
+## Session 2025-08-18 09:43 - 12:43 3h 0m
 
 - Update documentation on code
 - Prepared sort of "assembly line with stages" in new `prompting` repo
 - Executed commands and updated whole documentation
 
-## Session 2025-08-19 1h 0m
+## Session 2025-08-19 10:45 - 11:45 1h 0m
 
 - Reading documentation, fixes during reading
 - Best documentation i had in my life
 
 # game-hub
 
-## Session 2025-07-20 2h 0m
+## Session 2025-07-20 11:46 - 13:46 2h 0m
 
 - Initial project setup, vite typescript
 - Rewrite to typescript
 
-## Session 2025-07-21 0h 15m
+## Session 2025-07-21 13:28 - 13:43 0h 15m
 
 - Publish game hub into 'pages' repository
 
@@ -343,29 +343,29 @@
 
 # job-search
 
-## Session 2025-08-10 0h 0m
+## Session 2025-08-10 13:57 - 13:57 0h 0m
 
 - send cv to 'Programista operator frezarki CNC'
 
-## Session 2025-09-02 0h 0m
+## Session 2025-09-02 10:49 - 10:49 0h 0m
 
 - send cv to 'Data Engineer' Krakow Hybrid (nofluffjobs)
 
 # mind-dump
 
-## Session 2025-07-20 1h 0m
+## Session 2025-07-20 11:16 - 12:16 1h 0m
 
 - Initial project setup
 
-## Session 2025-08-02 0h 20m
+## Session 2025-08-02 15:26 - 15:46 0h 20m
 
 - New posts
 
-## Session 2025-08-05 0h 0m
+## Session 2025-08-05 13:51 - 13:51 0h 0m
 
 - Reset git history
 
-## Session 2025-08-06 0h 40m
+## Session 2025-08-06 10:28 - 11:08 0h 40m
 
 - Fix this file to comply with new format
 - Fix git history (reset history, 'Initial commit' then only 'Update content')
@@ -374,7 +374,7 @@
 
 # pickaroo
 
-## Session 2025-07-23 5h 30m
+## Session 2025-07-23 10:36 - 16:06 5h 30m
 
 - Project Structure
 - Initial project setup
@@ -387,7 +387,7 @@
 - Making selector more generic
 - Filed to run
 
-## Session 2025-07-24 3h 0m
+## Session 2025-07-24 09:15 - 12:15 3h 0m
 
 - Making it run
 - Tested Toogle Button
@@ -401,7 +401,7 @@
 - Test Log component
 - Test draft
 
-## Session 2025-07-27 3h 0m
+## Session 2025-07-27 16:29 - 19:29 3h 0m
 
 - Test Container component
 - Test draft
@@ -409,11 +409,11 @@
 
 # productivity
 
-## Session 2025-07-20 1h 30m
+## Session 2025-07-20 15:07 - 16:37 1h 30m
 
 - Initial project setup
 
-## Session 2025-08-06 1h 20m
+## Session 2025-08-06 13:30 - 14:50 1h 20m
 
 - Fix git history (reset history, 'Initial commit' then only 'Update content')
 - Fix this file to comply with new format and same for projects active today
@@ -432,24 +432,24 @@
 
 # project-sanity
 
-## Session 2025-07-21 1h 0m
+## Session 2025-07-21 15:36 - 16:36 1h 0m
 
 - Removing unused files
 
 # prompting
 
-## Session 2025-08-31 0h 40m
+## Session 2025-08-31 11:05 - 11:45 0h 40m
 
 - History file with prompts used
 - Simplified main entrypoint script
 
-## Session 2025-09-01 1h 30m
+## Session 2025-09-01 13:16 - 14:46 1h 30m
 
 - Cli tool to load template and fill data with input
 - Fixed history files (leave only data and template name, remove props from template, same in each record)
 - Templates for standard prompts
 
-## Session 2025-09-02 4h 0m
+## Session 2025-09-02 15:33 - 19:33 4h 0m
 
 - In new main, load template prompt and merge with core data from prompt (40m)
 - Remove previous stage and introduce new one, new concept for this tool (50m)
@@ -474,7 +474,7 @@
 
 # rock-paper-scissors
 
-## Session 2025-07-27 2h 0m
+## Session 2025-07-27 09:51 - 11:51 2h 0m
 
 - Project structure
 - Generate project
@@ -483,41 +483,41 @@
 - Convesion from js to ts
 - Published
 
-## Session 2025-07-28 0h 20m
+## Session 2025-07-28 14:29 - 14:49 0h 20m
 
 - Investigate bug of clicking not working on mobile
 - Implemented
 - Published
 - Tested
 
-## Session 2025-08-21 1h 0m
+## Session 2025-08-21 16:15 - 17:15 1h 0m
 
 - Used new zippy libs versions
 - Published version 0.0.2
 
 # scenelet
 
-## Session 2025-07-22 0h 30m
+## Session 2025-07-22 13:10 - 13:40 0h 30m
 
 - Project structure
 - Initial setup, vite ts with pnpm
 - Used my zippy-game-engine npm package
 
-## Session 2025-07-28 3h 0m
+## Session 2025-07-28 12:47 - 15:47 3h 0m
 
 - Scenes
 - Converted all scenes form js to ts
 - Looping thrue them with variable duration
 - As a side task published blogs
 
-## Session 2025-08-20 2h 30m
+## Session 2025-08-20 12:59 - 15:29 2h 30m
 
 - zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine
 - Use npm packages for above dependencies
 - Problem with width and heigth not available in scene methods
 - Solved with passing this data to scene ctor
 
-## Session 2025-08-21 2h 10m
+## Session 2025-08-21 14:18 - 16:28 2h 10m
 
 - Update libs versions
 - Update scenlet scenes to match libs implementation
@@ -525,14 +525,14 @@
 
 # scripts
 
-## Session 2025-07-24 1h 30m
+## Session 2025-07-24 16:22 - 17:52 1h 30m
 
 - Initial project setup
 - Proper project files with console scripts
 - Generated and improved focus_drone script
 - Incrementally timestamps task list to log file
 
-## Session 2025-07-28 1h 30m
+## Session 2025-07-28 14:26 - 15:56 1h 30m
 
 - Script to generate 'index.md' for 'dev-blog'
 - Generated prompt
@@ -541,16 +541,16 @@
 - Used script to 'dev-blog'
 - Updated custom template for 'dev-blog' github pages
 
-## Session 2025-08-02 1h 30m
+## Session 2025-08-02 09:15 - 10:45 1h 30m
 
 - Blog inxed in new format
 - Index for each level of file system
 
-## Session 2025-08-13 1h 30m
+## Session 2025-08-13 16:06 - 17:36 1h 30m
 
 - Alarm scripts (cli,gui), notification after 25m
 
-## Session 2025-08-23 4h 40m
+## Session 2025-08-23 14:24 - 19:04 4h 40m
 
 - Convert productivity yaml log files to dev-blog projects/productivity/logs
 - proj productivity - format fixed, dev-blog - posts generated
@@ -602,14 +602,14 @@
 
 # turbo-laps
 
-## Session 2025-08-21 0h 40m
+## Session 2025-08-21 10:00 - 10:40 0h 40m
 
 - Setup project turbo-laps-scenelet (turbo-laps scenes to test features in isolation)
 - Used zippy libs
 - Added scenes
 - Tested locally
 
-## Session 2025-08-22 4h 30m
+## Session 2025-08-22 13:06 - 17:36 4h 30m
 
 - Setup project turbo-laps-js (this was before zippy lisbs, version with js code that works somewhat, starting point for prototyping game)
 - Generated project 'vite-typescript-template' to speed up setup of this kinf of project
@@ -619,18 +619,18 @@
 - Prepared arrow player scene (used engine input system)
 - Extend engine to handle multiple scenes
 
-## Session 2025-08-23 1h 15m
+## Session 2025-08-23 10:39 - 11:54 1h 15m
 
 - Removed old logs from fullscreen-canvas-vanilla and zippy-game-engine
 - Scene System mode in turbo-laps-scenelet (engine runs one scene or list of scenes)
 
-## Session 2025-08-24 2h 10m
+## Session 2025-08-24 15:27 - 17:37 2h 10m
 
 - Added starting-grid scene to turbo-laps-scenelet proj
 - Added 2 prompts for next 2 parts
 - Failed with track boundary
 
-## Session 2025-08-25 4h 0m
+## Session 2025-08-25 14:19 - 18:19 4h 0m
 
 - Prepared prompting proj for coding in this project
 - Set up 4 desktops, project, prompting, ai/cli, productivity, go back to 1
@@ -640,7 +640,7 @@
 - Add track grass scene (20m)
 - Add lap tracker (35m)
 
-## Session 2025-08-26 3h 0m
+## Session 2025-08-26 10:49 - 13:49 3h 0m
 
 - Add game score scene (25m)
 - Tweak size of track (10m)
@@ -648,7 +648,7 @@
 - Menu Scene with title Turbo Laps, 5-Lap Time Trial, description, Start button
 - Make Start button switch scene mode to all (1h)
 
-## Session 2025-08-27 4h 0m
+## Session 2025-08-27 09:13 - 13:13 4h 0m
 
 - Prompt for new scene - countdown (30m)
 - Copy main and scenes form turbo-laps-scenelet to turbo-laps, turn main into game (15m)
@@ -658,7 +658,7 @@
 - Initially turn off car input, turn on after Go - Prompt and implementation in scenelet and game (35m)
 - Stop lap tracker when race is over, reset car on starting position (1h10m)
 
-## Session 2025-08-28 4h 50m
+## Session 2025-08-28 09:31 - 14:21 4h 50m
 
 - Scene with a canvas rendered button, to restart race (40m)
 - Refactor turbo-laps-scenelet, move factory/register functions out of main, scene factory (50m)
@@ -666,7 +666,7 @@
 - Refactored main to using url params for selection and factory for scene generation/registration (60m)
 - Fix factory to create independant instances for tests, integrate continue scene to multi scene test (90m)
 
-## Session 2025-08-29 5h 35m
+## Session 2025-08-29 12:41 - 18:16 5h 35m
 
 - Fixed restarting race in test (25m)
 - Fixed bug in registerMultiScene (15m)
@@ -677,13 +677,13 @@
 - Countdown should turn on car input on GO, not after GO (20m)
 - Run all tests and fix configs and some callbacks (95m)
 
-## Session 2025-08-30 4h 45m
+## Session 2025-08-30 16:21 - 21:06 4h 45m
 
 - Copy scenes form scenelet to game (10m)
 - Refactor prompting proj, archive old version, prompt model 0.0.1 (2h50m)
 - Refactor scene-factory (1h45m)
 
-## Session 2025-08-31 6h 50m
+## Session 2025-08-31 10:09 - 16:59 6h 50m
 
 - Thinkig what to do with yt in background (1h)
 - Test ElipseTrack, RectangleTrack scene, in isolation as single scene (20m)
@@ -692,13 +692,13 @@
 - Test StartingGrid, in isolation as single scene (30m)
 - TrackConfigService singleton extracted and used in scenes (6 scenes) (4h)
 
-## Session 2025-09-01 1h 25m
+## Session 2025-09-01 16:16 - 17:41 1h 25m
 
 - Refactor TrackGrass scene to use track config service and test it as single scene in isolation (15m)
 - Refactor LapTracker to test it with no dependencies on other scenes (55m)
 - Mouse Currsor scene, click to get mouse pos (15m)
 
-## Session 2025-09-02 1h 15m
+## Session 2025-09-02 12:53 - 14:08 1h 15m
 
 - Functional multiSceneFactory (25m)
 - Add rendering points to Mouse Currsor scene 
@@ -1005,7 +1005,7 @@
 
 # zippy-game-engine
 
-## Session 2025-07-22 3h 20m
+## Session 2025-07-22 09:51 - 13:11 3h 20m
 
 - Project structure
 - Initial setup, vite ts with pnpm
@@ -1015,7 +1015,7 @@
 - Cloned Scenelet project and named it as zippy-test
 - Linked local pnpm package, with file:../zippy
 
-## Session 2025-08-01 4h 0m
+## Session 2025-08-01 13:59 - 17:59 4h 0m
 
 - zippy-shared-lib
 - Lib project with shared types
@@ -1024,20 +1024,20 @@
 - Published to npm
 - Installed 'zippy-shared-lib' to 'zippy'
 
-## Session 2025-08-02 2h 50m
+## Session 2025-08-02 10:16 - 13:06 2h 50m
 
 - Optimizing zippy-shared-lib with maintanace prompts
 - Zippy-test is a page to test component integration
 - zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine
 - This is needed to run any project with zippy-game-engine
 
-## Session 2025-08-03 1h 40m
+## Session 2025-08-03 09:47 - 11:27 1h 40m
 
 - zippy-shared-lib
 - Fix bugs form AI
 - Scripts to support prompts generation
 
-## Session 2025-08-04 7h 20m
+## Session 2025-08-04 13:31 - 20:51 7h 20m
 
 - zippy-shared-lib
 - Cli commands with args for prompt generation
@@ -1046,7 +1046,7 @@
 - Refactoring with SOLID checker prompt, went from 2 files to 20
 - Script with 9 maintanace prompts
 
-## Session 2025-08-05 4h 0m
+## Session 2025-08-05 14:34 - 18:34 4h 0m
 
 - zippy-shared-lib
 - Made code compile
@@ -1056,7 +1056,7 @@
 - zippy
 - Update after removed 95% of shared lib
 
-## Session 2025-08-06 1h 50m
+## Session 2025-08-06 13:15 - 15:05 1h 50m
 
 - zippy-shared-lib
 - Rewiewing, i see, i pretty much wasted 16 hours. I am not sure why this happened. After 3 project with simple game engine, i wanted to optimize them with prompts, document what it is. I had 2 components, canvas and engine. I comunicated them with interface in shared lib. Extracted two shared classes. I was optimizing them with prompts. Events are handled in components, so no need for centralizing it. Wrappers over browser api is just pointless and insane. Classes were removed. I guess i was procrastinating and wanted prompt automation to much. Only thing out of this is scripts for prompting, but it may turn out to be not that usefull. This gives me thouth that a lot of time, best code is removed one. Need clear, measured goals.
@@ -1065,27 +1065,27 @@
 - Fix git history (reset history, 'Initial commit')
 - Publish npm package
 
-## Session 2025-08-07 0h 30m
+## Session 2025-08-07 16:20 - 16:50 0h 30m
 
 - Fix this file to comply with new format
 
-## Session 2025-08-08 1h 10m
+## Session 2025-08-08 12:34 - 13:44 1h 10m
 
 - Documentation with refactoring
 
-## Session 2025-08-09 3h 10m
+## Session 2025-08-09 09:00 - 12:10 3h 10m
 
 - Documentation with refactoring
 
-## Session 2025-08-10 2h 0m
+## Session 2025-08-10 13:23 - 15:23 2h 0m
 
 - Documentation with refactoring
 
-## Session 2025-08-11 1h 0m
+## Session 2025-08-11 11:15 - 12:15 1h 0m
 
 - Documentation with refactoring
 
-## Session 2025-08-12 4h 0m
+## Session 2025-08-12 13:44 - 17:44 4h 0m
 
 - Zippy-test
 - Made it run after component have been changed
@@ -1094,20 +1094,20 @@
 - This was imposible to debug in original project, becouse of minified libs that scramble code and make it unreadable
 - Monorepo with clone of code of each component was created and build for development, this is better for debuging
 
-## Session 2025-08-19 2h 30m
+## Session 2025-08-19 11:50 - 14:20 2h 30m
 
 - Documentation
 - Refactored script of producting documentation, its simple now
 - Updated code documentation files
 - Add usage doc
 
-## Session 2025-08-20 2h 15m
+## Session 2025-08-20 15:53 - 18:08 2h 15m
 
 - Documentation for config files
 - Its quite hard to document configs and in a consistent way
 - Merge zippy-test doc to this doc, no need for separete doc
 - Also zippy-shared-lib dosent need to have separete doc, merging
 
-## Session 2025-08-21 1h 0m
+## Session 2025-08-21 16:15 - 17:15 1h 0m
 
 - Prepare documentation for zippy-shared-lib
