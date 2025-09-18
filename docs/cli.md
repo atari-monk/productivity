@@ -1,18 +1,20 @@
-# Script 'proj-log' Usage
+# CLI Usage
 
-Start Session:
+Script 'proj-log' is cli for this project. 
+
+## Start Session:
 
 ```
 proj-log project-name -start
 ```
 
-Add Session Note:
+## Add Session Note:
 
 ```
 proj-log project-name -note "bla bla"
 ```
 
-End Session: 
+## End Session: 
 
 ```
 proj-log project-name -end
