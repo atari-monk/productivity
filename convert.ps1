@@ -1,35 +1,30 @@
-# Convert-MarkdownSessions.ps1
-# Usage: .\Convert-MarkdownSessions.ps1 -InputFile "input.md" -OutputFile "output.md"
-
-param(
-    [string]$InputFile,
-    [string]$OutputFile
-)
-
-# Read the input file
-$content = Get-Content -Path $InputFile
-
-$outputLines = @()
-$currentProject = ""
-
-foreach ($line in $content) {
-    if ($line.StartsWith("# ")) {
-        # This is a project header, store the project name
-        $currentProject = $line.TrimStart('#').Trim()
+function ConvertTo-ChronologicalRecords {
+    param (
+        [string]$SourcePath,
+        [string]$DestinationPath
+    )
+    $content = Get-Content -Path $SourcePath -Raw
+    $pattern = '(?s)(## .*?)(?=## |\Z)'
+    $matches = [regex]::Matches($content, $pattern)
+    $records = @()
+    foreach ($match in $matches) {
+        $record = $match.Groups[1].Value.Trim()
+        if (-not [string]::IsNullOrWhiteSpace($record)) {
+            $dateMatch = [regex]::Match($record, '\d{4}-\d{2}-\d{2}')
+            if ($dateMatch.Success) {
+                $date = [DateTime]$dateMatch.Value
+                $records += [PSCustomObject]@{
+                    Date = $date
+                    Content = $record
+                }
+            }
+        }
     }
-    elseif ($line.StartsWith("## Session ")) {
-        # This is a session header, reformat it
-        $sessionInfo = $line.TrimStart('#').Trim().Replace("Session ", "")
-        $newHeader = "## $currentProject $sessionInfo"
-        $outputLines += $newHeader
-    }
-    elseif ($line.Trim() -eq "" -or $line.StartsWith("- ")) {
-        # Keep empty lines and bullet points as they are
-        $outputLines += $line
-    }
+    $sortedRecords = $records | Sort-Object Date
+    $sortedContent = ($sortedRecords.Content) -join "`n`n"
+    Set-Content -Path $DestinationPath -Value $sortedContent.Trim() -NoNewline
 }
 
-# Write to output file
-$outputLines | Out-File -FilePath $OutputFile -Encoding UTF8
-
-Write-Host "Conversion complete! Output saved to: $OutputFile"
+$sourcePath = "C:/Atari-Monk-Art/productivity/proj-log.md"
+$destinationPath = "C:/Atari-Monk-Art/productivity/proj-log-chronological.md"
+ConvertTo-ChronologicalRecords -SourcePath $sourcePath -DestinationPath $destinationPath
