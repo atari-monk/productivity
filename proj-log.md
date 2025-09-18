@@ -86,14 +86,14 @@
 - Generated and improved focus_drone script
 - Incrementally timestamps task list to log file
 
-## diy 2025-07-25 16:50 - 27:20 10h 30m
+## diy 2025-07-25 06:00 - 16:30 10h 30m
 
 - Rotating base for articulated arm
 - Sorting trash in garage full of trash
 - Taking out cart to wheel table saw
 - Drilling, gluing, table saw cutting
 
-## diy 2025-07-26 13:43 - 25:43 12h 0m
+## diy 2025-07-26 06:00 - 18:00 12h 0m
 
 - Rotating base for articulated arm
 - 4 threaded rods to connect arm to base
