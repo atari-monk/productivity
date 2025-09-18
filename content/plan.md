@@ -41,6 +41,7 @@
 1. [x] Engine sound class, production quality
 2. [x] Crash sound class
 3. [x] Skid sound class
+4. [ ] Publish my battleships game
 
 Backlog
 - [ ] Prep code and script for fast publishing mobile version
