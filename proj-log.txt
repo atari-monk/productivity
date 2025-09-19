@@ -1,33 +1,33 @@
-2025-07-20 09:00-10:00 1h0m assets
+2025-07-20 09:00-10:00 1h assets
 Categorized assets in folder
 
-2025-07-20 11:00-12:00 1h0m mind-dump
+2025-07-20 11:00-12:00 1h mind-dump
 Initial project setup
 
-2025-07-20 13:00-15:00 2h0m game-hub
+2025-07-20 13:00-15:00 2h game-hub
 Initial project setup, vite typescript
 Rewrite to typescript
 
 2025-07-20 16:00-17:30 1h30m productivity
 Initial project setup
 
-2025-07-21 10:00-10:15 0h15m game-hub
+2025-07-21 10:00-10:15 15m game-hub
 Publish game hub into 'pages' repository
 
 2025-07-21 11:00-13:30 2h30m diy
 Tray for laptop, for articulated arm
 
-2025-07-21 14:00-14:15 0h15m fullscreen-canvas
+2025-07-21 14:00-14:15 15m fullscreen-canvas
 Reading current codebase
 
-2025-07-21 15:00-16:00 1h0m project-sanity
+2025-07-21 15:00-16:00 1h project-sanity
 Removing unused files
 
-2025-07-21 17:00-18:00 1h0m dev-blog
+2025-07-21 17:00-18:00 1h dev-blog
 Initial project setup
 Doc to setup 'fullscreen-canvas' project
 
-2025-07-22 09:30-10:00 0h30m scenelet
+2025-07-22 09:30-10:00 30m scenelet
 Project structure
 Initial setup, vite ts with pnpm
 Used my zippy-game-engine npm package
@@ -53,7 +53,7 @@ Fit to container, types more consistent with each other
 Making selector more generic
 Filed to run
 
-2025-07-24 09:15-12:15 3h0m pickaroo
+2025-07-24 09:15-12:15 3h pickaroo
 Making it run
 Tested Toogle Button
 Test Toogle Button component
@@ -78,17 +78,17 @@ Sorting trash in garage full of trash
 Taking out cart to wheel table saw
 Drilling, gluing, table saw cutting
 
-2025-07-26 06:00-18:00 12h0m diy
+2025-07-26 06:00-18:00 12h diy
 Rotating base for articulated arm
-4 threaded rods to connect arm to base
+Cut threaded rods (4) to connect arm to base
 Glued plywood blocks to friction hold arms in place
 
-2025-07-27 09:00-12:00 3h0m pickaroo
+2025-07-27 09:00-12:00 3h pickaroo
 Test Container component
 Test draft
 Was not visible due to styles
 
-2025-07-27 13:00-15:00 2h0m rock-paper-scissors
+2025-07-27 13:00-15:00 2h rock-paper-scissors
 Project structure
 Generate project
 Moved files to project
@@ -96,28 +96,28 @@ Istalled 'zippy'
 Convesion from js to ts
 Published
 
-2025-07-27 17:00-18:00 1h0m fun
+2025-07-27 17:00-18:00 1h fun
 OpenRA - Red Alert
 Skirmish lost to AI
 Skirmish won against AI turtle, 50% nerfed
 
-2025-07-28 20:00-20:40 0h40m fun
+2025-07-28 20:00-20:40 40m fun
 OpenRA - Red Alert
 Skirmish won against AI normal, 40% nerfed
 
-2025-07-28 09:00-12:00 3h0m scenelet
+2025-07-28 09:00-12:00 3h scenelet
 Scenes
 Converted all scenes form js to ts
 Looping thrue them with variable duration
 As a side task published blogs
 
-2025-07-28 12:30-12:50 0h20m rock-paper-scissors
+2025-07-28 12:30-12:50 20m rock-paper-scissors
 Investigate bug of clicking not working on mobile
 Implemented
 Published
 Tested
 
-2025-07-28 13:00-14:00 1h0m dev-blog
+2025-07-28 13:00-14:00 1h dev-blog
 Prompt to generate scene for 'scenelet' project
 
 2025-07-28 14:30-16:00 1h30m scripts
@@ -142,7 +142,7 @@ Vite project setup for 'fullscreen-canvas-vanilla'
 Initial vanilla implementation based on react 'fullscreen-canvas' component
 Integrated 'zippy' and 'fullscreen-canvas-vanilla' components in 'zippy-test' project
 
-2025-07-29 10:35-11:35 1h0m fun
+2025-07-29 10:35-11:35 1h fun
 OpenRA - Red Alert
 Skirmish against AI normal, 30% nerfed, large map
 Skirmish against AI normal, 20% nerfed, huge map, same nation
@@ -151,7 +151,7 @@ Skirmish against AI normal, 20% nerfed, huge map, same nation
 Scripts 'code_to_md' and 'clipboard_collector'
 Documenting code base
 
-2025-07-30 15:02-18:02 3h0m dev-blog
+2025-07-30 15:02-18:02 3h dev-blog
 Refactored prompts collection
 Standarized format
 Many new prompts
@@ -160,11 +160,11 @@ Categorized
 Script tool to generate new files
 Doc on LLM chats
 
-2025-07-31 20:00-20:30 0h30m fun
+2025-07-31 20:00-20:30 30m fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, lost
 
-2025-07-31 09:00-13:00 4h0m fullscreen-canvas
+2025-07-31 09:00-13:00 4h fullscreen-canvas
 Made classes more SRP
 Fixed factory
 Improved DI
@@ -175,19 +175,18 @@ Refactor project structure
 Prompts for generating documentations of code base
 Added notes from chatting with LLM
 
-2025-08-01 13:59-17:59 4h0m zippy-game-engine
-zippy-shared-lib
-Lib project with shared types
+2025-08-01 13:59-17:59 4h zippy-game-engine
+Lib project with shared types, zippy-shared-lib
 Initialized project
-config - types in exports prop required
+Config - types in exports prop required
 Published to npm
 Installed 'zippy-shared-lib' to 'zippy'
 
-2025-08-01 13:29-13:59 0h30m fun
+2025-08-01 13:29-13:59 30m fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, lost
 
-2025-08-02 20:00-21:00 1h0m fun
+2025-08-02 20:00-21:00 1h fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, lost
 Article said ai cheats
@@ -197,29 +196,29 @@ Skirmish against AI normal, huge map, same nation, 10% nerfed, won
 Blog inxed in new format
 Index for each level of file system
 
-2025-08-02 11:00-11:20 0h20m mind-dump
+2025-08-02 11:00-11:20 20m mind-dump
 New posts
 
-2025-08-02 11:20-11:35 0h15m dev-blog
+2025-08-02 11:20-11:35 15m dev-blog
 Generate prompts
 
 2025-08-02 12:00-14:50 2h50m zippy-game-engine
 Optimizing zippy-shared-lib with maintanace prompts
 Zippy-test is a page to test component integration
-zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine
+Projs zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine
 This is needed to run any project with zippy-game-engine
 
-2025-08-03 15:27-16:17 0h50m fun
+2025-08-03 15:27-16:17 50m fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, 10% nerfed, won
 
 2025-08-03 09:47-11:27 1h40m zippy-game-engine
-zippy-shared-lib
+Proj zippy-shared-lib
 Fix bugs form AI
 Scripts to support prompts generation
 
 2025-08-04 08:00-15:20 7h20m zippy-game-engine
-zippy-shared-lib
+Proj zippy-shared-lib
 Cli commands with args for prompt generation
 Refactored prompt script to use file for text data
 Refactoring with maintenance prompt, to point where code is not getting better
@@ -230,29 +229,29 @@ Script with 9 maintanace prompts
 Hand saw bench
 Cut >= 10x10 wood for legs with Table saw
 Cut 'table' board
-8 screews to join them
+Screews (8) to join them
 Helped parents to bolt in their sitting bench, metal legs to boards
 Cut little boards, for phone stand articulated arm, with new hand saw bench
 
-2025-08-05 09:00-09:00 0h0m mind-dump
+2025-08-05 09:00-09:00 mind-dump
 Reset git history
 
-2025-08-05 09:00-09:20 0h20m dev-blog
+2025-08-05 09:00-09:20 20m dev-blog
 Reset git history
 
-2025-08-05 10:00-14:00 4h0m zippy-game-engine
-zippy-shared-lib
+2025-08-05 10:00-14:00 4h zippy-game-engine
+Proj zippy-shared-lib
 Made code compile
 Script tool for prompting
 Refactoring with 9 prompts
 Removed 95 % of lib after realizing it was pointless wrappers on browser utils
-zippy
+Proj zippy-game-engine
 Update after removed 95% of shared lib
 
 2025-08-05 15:00-16:30 1h30m fullscreen-canvas
 Updated shared library, engine and canvas
 
-2025-08-06 08:00-08:40 0h40m mind-dump
+2025-08-06 08:00-08:40 40m mind-dump
 Fix this file to comply with new format
 Fix git history (reset history, 'Initial commit' then only 'Update content')
 Add index.md
@@ -263,20 +262,35 @@ Fix git history (reset history, 'Initial commit' then only 'Update content')
 Fix this file to comply with new format and same for projects active today
 New file daily-projects.yaml, index of projects active given day
 
-2025-08-06 10:30-11:10 0h40m fullscreen-canvas
+2025-08-06 10:30-11:10 40m fullscreen-canvas
 Fix this file to comply with new format and same for projects active today
 Fix git history (reset history, 'Initial commit')
 
 2025-08-06 12:00-13:50 1h50m zippy-game-engine
-zippy-shared-lib
-Rewiewing, i see, i pretty much wasted 16 hours. I am not sure why this happened. After 3 project with simple game engine, i wanted to optimize them with prompts, document what it is. I had 2 components, canvas and engine. I comunicated them with interface in shared lib. Extracted two shared classes. I was optimizing them with prompts. Events are handled in components, so no need for centralizing it. Wrappers over browser api is just pointless and insane. Classes were removed. I guess i was procrastinating and wanted prompt automation to much. Only thing out of this is scripts for prompting, but it may turn out to be not that usefull. This gives me thouth that a lot of time, best code is removed one. Need clear, measured goals.
+Proj zippy-shared-lib
+Rewiewing, i see, i pretty much wasted 16 hours
+I am not sure why this happened
+After 3 project with simple game engine
+I wanted to optimize them with prompts, document what it is
+I had 2 components, canvas and engine
+I comunicated them with interface in shared lib
+Extracted two shared classes
+I was optimizing them with prompts
+Events are handled in components, so no need for centralizing it
+Wrappers over browser api is just pointless and insane
+Classes were removed
+I guess i was procrastinating and wanted prompt automation to much
+Only thing out of this is scripts for prompting
+It may turn out to be not that usefull
+This gives me thouth that a lot of time, best code is removed one
+Need clear, measured goals
 Prepare stable version
-Documentation,
+Documentation
 Fix git history (reset history, 'Initial commit')
 Publish npm package
 
-2025-08-06 14:22-14:22 0h0m dev-blog
-Fix this file to comply with new format
+2025-08-06 14:00-14:00 dev-blog
+Convert log file to comply with new format
 Fix git history (reset history, 'Initial commit' then only 'Update content')
 Fix index.md
 Added new posts
@@ -284,10 +298,10 @@ Added new posts
 2025-08-07 08:00-11:50 3h50m fullscreen-canvas
 Documentation
 
-2025-08-07 12:00-12:30 0h30m zippy-game-engine
+2025-08-07 12:00-12:30 30m zippy-game-engine
 Fix this file to comply with new format
 
-2025-08-08 13:00-15:00 2h0m fullscreen-canvas
+2025-08-08 13:00-15:00 2h fullscreen-canvas
 Documentation
 Small Refactor during documentation
 
@@ -297,20 +311,20 @@ Documentation with refactoring
 2025-08-09 09:00-12:10 3h10m zippy-game-engine
 Documentation with refactoring
 
-2025-08-10 08:00-10:00 2h0m zippy-game-engine
+2025-08-10 08:00-10:00 2h zippy-game-engine
 Documentation with refactoring
 
-2025-08-10 10:00-10:00 0h0m job-search
+2025-08-10 10:00-10:00 job-search
 send cv to 'Programista operator frezarki CNC'
 
-2025-08-11 11:15-12:15 1h0m zippy-game-engine
+2025-08-11 11:15-12:15 1h zippy-game-engine
 Documentation with refactoring
 
 2025-08-11 15:33-16:48 1h15m command-box
 Added posts in dev-blog
 Setup project
 
-2025-08-12 13:44-17:44 4h0m zippy-game-engine
+2025-08-12 13:44-17:44 4h zippy-game-engine
 Zippy-test
 Made it run after component have been changed
 There is some bug manifesting as weird behavior and crash
@@ -321,15 +335,15 @@ Monorepo with clone of code of each component was created and build for developm
 2025-08-13 16:06-17:36 1h30m scripts
 Alarm scripts (cli,gui), notification after 25m
 
-2025-08-13 14:40-15:30 0h50m fullscreen-canvas
+2025-08-13 14:40-15:30 50m fullscreen-canvas
 Setup vite test project fullscreen-canvas-vanilla-test
 Need to update npm with canvas resizer bug fix
 
-2025-08-14 09:42-10:42 1h0m fullscreen-canvas
+2025-08-14 09:42-10:42 1h fullscreen-canvas
 Fix canvas resizer bug
 Publish new version
 
-2025-08-15 08:00-08:05 0h5m fullscreen-canvas
+2025-08-15 08:00-08:05 5m fullscreen-canvas
 Fixed css of component witch is crucial to its function
 
 2025-08-15 09:00-11:40 2h40m command-box
@@ -338,7 +352,7 @@ Need to only do command object first and then add relation with tag, not both at
 Fixed MVP doc so it should be doable with no problems now
 App from mvp doc worked, but needs one more run to make it faster
 
-2025-08-16 15:20-16:00 0h40m command-box
+2025-08-16 15:20-16:00 40m command-box
 MVP doc implemented in acceptable time
 Fixed details in doc
 
@@ -346,12 +360,12 @@ Fixed details in doc
 Documentation update for canvas resizer
 Added usage instructions
 
-2025-08-18 09:43-12:43 3h0m fullscreen-canvas
+2025-08-18 09:43-12:43 3h fullscreen-canvas
 Update documentation on code
 Prepared sort of "assembly line with stages" in new `prompting` repo
 Executed commands and updated whole documentation
 
-2025-08-19 10:45-11:45 1h0m fullscreen-canvas
+2025-08-19 10:45-11:45 1h fullscreen-canvas
 Reading documentation, fixes during reading
 Best documentation i had in my life
 
@@ -368,12 +382,12 @@ Merge zippy-test doc to this doc, no need for separete doc
 Also zippy-shared-lib dosent need to have separete doc, merging
 
 2025-08-20 12:59-15:29 2h30m scenelet
-zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine
+Projs zippy-shared-lib, fullscreen-canvas-vanilla, zippy-game-engine
 Use npm packages for above dependencies
 Problem with width and heigth not available in scene methods
 Solved with passing this data to scene ctor
 
-2025-08-21 08:00-09:00 1h0m rock-paper-scissors
+2025-08-21 08:00-09:00 1h rock-paper-scissors
 Used new zippy libs versions
 Published version 0.0.2
 
@@ -382,26 +396,26 @@ Update libs versions
 Update scenlet scenes to match libs implementation
 Published version 0.0.2 to game-hub
 
-2025-08-21 12:30-13:10 0h40m turbo-laps
+2025-08-21 12:30-13:10 40m turbo-laps
 Setup project turbo-laps-scenelet (turbo-laps scenes to test features in isolation)
 Used zippy libs
 Added scenes
 Tested locally
 
-2025-08-21 16:15-17:15 1h0m zippy-game-engine
+2025-08-21 16:15-17:15 1h zippy-game-engine
 Prepare documentation for zippy-shared-lib
 
-2025-08-21 19:00-19:05 0h5m dev-blog
+2025-08-21 19:00-19:05 5m dev-blog
 Flatten categories
 
-2025-08-21 20:00-20:20 0h20m fun
+2025-08-21 20:00-20:20 20m fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, lost
 
-2025-08-22 09:00-09:30 0h30m diy
+2025-08-22 09:00-09:30 30m diy
 Cut 2m branch x 4 with hand saw (from parents ganden cutouts)
 
-2025-08-22 20:00-20:30 0h30m fun
+2025-08-22 20:00-20:30 30m fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, won
 
@@ -420,7 +434,7 @@ Scene System mode in turbo-laps-scenelet (engine runs one scene or list of scene
 
 2025-08-23 14:24-19:04 4h40m scripts
 Convert productivity yaml log files to dev-blog projects/productivity/logs
-proj productivity - format fixed, dev-blog - posts generated
+Proj productivity - format fixed, dev-blog - posts generated
 Convert daily stats (needs format fix)
 New way of prompting worked out in prompting repository
 
@@ -435,7 +449,7 @@ Added starting-grid scene to turbo-laps-scenelet proj
 Added 2 prompts for next 2 parts
 Failed with track boundary
 
-2025-08-25 14:19-18:19 4h0m turbo-laps
+2025-08-25 14:19-18:19 4h turbo-laps
 Prepared prompting proj for coding in this project
 Set up 4 desktops, project, prompting, ai/cli, productivity, go back to 1
 Add track boundary scene
@@ -444,26 +458,26 @@ Add road markings scene (25m)
 Add track grass scene (20m)
 Add lap tracker (35m)
 
-2025-08-26 12:28-13:28 1h0m diy
+2025-08-26 12:28-13:28 1h diy
 Made 2 garden planters from trees cut in lot
 Made 2m, 1.2m, 0,5m twigs
 Put them into 2 rectangles
 Long and short prependicular to each other
 Long, short, long, short and so on, on top of each other
 
-2025-08-26 08:00-11:00 3h0m turbo-laps
+2025-08-26 08:00-11:00 3h turbo-laps
 Add game score scene (25m)
 Tweak size of track (10m)
 Stop lap tracker and provide interface to start/stop/reset it (40m)
 Menu Scene with title Turbo Laps, 5-Lap Time Trial, description, Start button
 Make Start button switch scene mode to all (1h)
 
-2025-08-27 11:30-12:10 0h40m diy
+2025-08-27 11:30-12:10 40m diy
 Processed couple of twigs
 Finished main structure
 Started cutting 50cm twigs for inside walls of garden bed
 
-2025-08-27 13:00-17:00 4h0m turbo-laps
+2025-08-27 13:00-17:00 4h turbo-laps
 Prompt for new scene - countdown (30m)
 Copy main and scenes form turbo-laps-scenelet to turbo-laps, turn main into game (15m)
 Make turbo-laps-scenelet only about testing single scene and multi scenes for testing feature (55m)
@@ -502,11 +516,11 @@ Test TrackBoundary scene, in isolation as single scene (50m)
 Test StartingGrid, in isolation as single scene (30m)
 TrackConfigService singleton extracted and used in scenes (6 scenes) (4h)
 
-2025-08-31 15:00-15:40 0h40m prompting
+2025-08-31 15:00-15:40 40m prompting
 History file with prompts used
 Simplified main entrypoint script
 
-2025-09-01 20:00-21:00 1h0m fun
+2025-09-01 20:00-21:00 1h fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, lost on wall building
 Skirmish against AI normal, huge map, same nation, won on building
@@ -521,7 +535,7 @@ Cli tool to load template and fill data with input
 Fixed history files (leave only data and template name, remove props from template, same in each record)
 Templates for standard prompts
 
-2025-09-01 09:41-11:41 2h0m diy
+2025-09-01 09:41-11:41 2h diy
 Took bark of from log (1h)
 Made diy mill out of ladder, wooden tray and chainsaw but parts dont fit, but it was close, this could be done (30m)
 Took bark of from log (30m)
@@ -532,23 +546,23 @@ Add rendering points to Mouse Currsor scene
 Prompts written (25m)
 Better prompt system hepled to implement (25m)
 
-2025-09-02 10:00-14:00 4h0m prompting
+2025-09-02 10:00-14:00 4h prompting
 In new main, load template prompt and merge with core data from prompt (40m)
 Remove previous stage and introduce new one, new concept for this tool (50m)
 Introduced functions and main with structured flow, removed props not used in prompt, removed big bugs (2h30m)
 
-2025-09-02 19:00-19:00 0h0m diy
+2025-09-02 19:00-19:00 diy
 I have no say on the plot therfore i concluded i wont do anything here, no point
 No need for pointless slavery among brainwashed
 
-2025-09-02 20:00-20:00 0h0m job-search
+2025-09-02 20:00-20:00 job-search
 send cv to 'Data Engineer' Krakow Hybrid (nofluffjobs)
 
-2025-09-02 21:00-22:00 1h0m fun
+2025-09-02 21:00-22:00 1h fun
 OpenRA - Red Alert
 Skirmish against AI normal, huge map, same nation, top of map, fair map placement (before no simetry), lost, won
 
-2025-09-03 22:17-22:35 0h18m prompting
+2025-09-03 22:17-22:35 18m prompting
 Clean docs a bit
 
 2025-09-03 19:36-20:58 1h22m productivity
@@ -560,7 +574,7 @@ New file format
 Docs
 Scripts for automation
 
-2025-09-03 11:42-12:22 0h40m fun
+2025-09-03 11:42-12:22 40m fun
 Skirmish against AI normal, huge map, same nation, top of map, lost, lost
 
 2025-09-03 22:38-00:02 1h24m fun
@@ -571,23 +585,23 @@ Scene instance factory
 Ai said its nice 3 SOLID factories
 Instance, single scene test, multi scene test, factories
 
-2025-09-04 06:46-07:38 0h52m fun
+2025-09-04 06:46-07:38 52m fun
 Skirmish against AI normal, huge map, same nation, top of map
 Won with wall strategy
 
-2025-09-04 13:22-13:49 0h27m turbo-laps
+2025-09-04 13:22-13:49 27m turbo-laps
 Refactor next multi scene test
 
-2025-09-04 07:39-07:52 0h13m scripts
+2025-09-04 07:39-07:52 13m scripts
 Productivity Proj-log script entry point
 
-2025-09-04 07:54-08:30 0h36m scripts
+2025-09-04 07:54-08:30 36m scripts
 Prompting prompt_tool script entry point
 
-2025-09-04 08:30-08:41 0h11m scripts
+2025-09-04 08:30-08:41 11m scripts
 Productivity Convert script entry point
 
-2025-09-04 17:49-18:23 0h34m scripts
+2025-09-04 17:49-18:23 34m scripts
 Script to run command-box
 
 2025-09-04 20:32-22:57 2h25m prompting
@@ -595,25 +609,25 @@ Prepare prompts for projects
 Did 2 new scripts and fixed scripts registers
 Tested functionality prompt
 
-2025-09-04 16:18-17:12 0h54m turbo-laps
+2025-09-04 16:18-17:12 54m turbo-laps
 Refactor next multi scene test
 Acctually 2 done
 
-2025-09-04 13:59-14:20 0h21m turbo-laps
+2025-09-04 13:59-14:20 21m turbo-laps
 Refactor next multi scene test
 
-2025-09-05 20:29-21:00 0h31m fun
+2025-09-05 20:29-21:00 31m fun
 Skirmish against AI normal, huge map, same nation, top of map
 Won with movig wall, with ease
 I could do more pressure
 
-2025-09-05 19:34-20:25 0h51m turbo-laps
+2025-09-05 19:34-20:25 51m turbo-laps
 Test of transition form menu to game
 
 2025-09-05 21:54-23:19 1h25m turbo-laps
 Test for Game Score scene
 
-2025-09-05 11:30-12:07 0h37m fun
+2025-09-05 11:30-12:07 37m fun
 Skirmish against AI normal, huge map, same nation, top of map
 Seem like wall strategy works every time
 Should move wall to enemy next time
@@ -623,44 +637,44 @@ Script to move productivity logs to blog
 First collect source/destination paths
 Script to copy logs and push dev-blog
 
-2025-09-05 16:24-16:47 0h23m turbo-laps
+2025-09-05 16:24-16:47 23m turbo-laps
 Single Scene Test for Menu scene
 
-2025-09-06 18:55-19:32 0h37m scripts
+2025-09-06 18:55-19:32 37m scripts
 Script to open prompting files, renames, archive not used scripts
 
 2025-09-06 21:51-23:09 1h18m turbo-laps
 Game Factory
 Started, menu and transition to game scenes
 
-2025-09-06 18:15-18:55 0h40m scripts
+2025-09-06 18:15-18:55 40m scripts
 Renames
 
-2025-09-06 23:09-23:43 0h34m fun
+2025-09-06 23:09-23:43 34m fun
 Could won faster
 
 2025-09-07 13:23-14:57 1h34m turbo-laps
 Builder now has inerfaces and validation to set objects relations
 
-2025-09-07 16:50-17:33 0h43m turbo-laps
+2025-09-07 16:50-17:33 43m turbo-laps
 Extend game builder with scenes
 
-2025-09-07 18:23-18:34 0h11m turbo-laps
+2025-09-07 18:23-18:34 11m turbo-laps
 Builder for Countdown
 
-2025-09-07 18:41-18:55 0h14m turbo-laps
+2025-09-07 18:41-18:55 14m turbo-laps
 Builder for LapTracker
 
-2025-09-07 20:34-20:54 0h20m turbo-laps
+2025-09-07 20:34-20:54 20m turbo-laps
 Builder for ContinueBtn
 
-2025-09-07 22:17-22:46 0h29m turbo-laps
+2025-09-07 22:17-22:46 29m turbo-laps
 Builder for GameScore
 
-2025-09-07 12:55-13:22 0h27m fun
+2025-09-07 12:55-13:22 27m fun
 Won, 2 walls, one moving one in base
 
-2025-09-08 20:00-20:20 0h20m turbo-laps
+2025-09-08 20:00-20:20 20m turbo-laps
 Car horn sound
 
 2025-09-08 21:04-22:14 1h10m turbo-laps
@@ -670,7 +684,7 @@ Car crash sound
 Sound for car
 Engine
 
-2025-09-08 15:40-16:05 0h25m turbo-laps
+2025-09-08 15:40-16:05 25m turbo-laps
 Car sprite rendering
 
 2025-09-08 10:39-13:38 2h59m turbo-laps
@@ -679,29 +693,29 @@ Mark last time in score with red color
 Sound Scene
 Car sprite
 
-2025-09-09 23:13-23:34 0h21m turbo-laps
+2025-09-09 23:13-23:34 21m turbo-laps
 Pondering refactor
 
-2025-09-09 18:29-18:49 0h20m turbo-laps
+2025-09-09 18:29-18:49 20m turbo-laps
 Alternative player
 
-2025-09-09 17:55-18:28 0h33m turbo-laps
+2025-09-09 17:55-18:28 33m turbo-laps
 Fix start corss left right to win bug
 Playable car
 
 2025-09-09 16:49-17:52 1h3m turbo-laps
 Block keys off track
 
-2025-09-09 11:57-12:21 0h24m turbo-laps
+2025-09-09 11:57-12:21 24m turbo-laps
 Fixed Starting Grid
 
-2025-09-09 16:20-16:29 0h9m turbo-laps
+2025-09-09 16:20-16:29 9m turbo-laps
 Fixed skid sound
 
-2025-09-09 20:14-20:24 0h10m prompting
+2025-09-09 20:14-20:24 10m prompting
 Code review promt
 
-2025-09-09 06:56-07:02 0h6m turbo-laps
+2025-09-09 06:56-07:02 6m turbo-laps
 Road markings
 
 2025-09-09 07:05-09:03 1h58m turbo-laps
@@ -713,29 +727,29 @@ Implemented configurable lap count
 2025-09-09 12:36-14:26 1h50m turbo-laps
 Reset car when 3s off track
 
-2025-09-09 15:01-15:22 0h21m turbo-laps
+2025-09-09 15:01-15:22 21m turbo-laps
 Toogle Countdown overlay
 Toogle Continue overlay
 
-2025-09-09 16:30-16:48 0h18m turbo-laps
+2025-09-09 16:30-16:48 18m turbo-laps
 Car dosent turn when not moving
 
 2025-09-09 20:29-21:58 1h29m scripts
 Clipboard for prompt_tool
 
-2025-09-09 15:28-15:49 0h21m turbo-laps
+2025-09-09 15:28-15:49 21m turbo-laps
 TrackBoundary with flags, to use track or track with margins as track border
 
-2025-09-09 15:53-16:08 0h15m turbo-laps
+2025-09-09 15:53-16:08 15m turbo-laps
 Fix road markings
 
-2025-09-09 16:08-16:17 0h9m turbo-laps
+2025-09-09 16:08-16:17 9m turbo-laps
 Sectors of last lap visible in tracker
 
 2025-09-10 16:30-18:51 2h21m turbo-laps
 Extracted systems from car, Async factories and builders, Move car config loading out of ctor
 
-2025-09-10 10:48-10:55 0h7m turbo-laps
+2025-09-10 10:48-10:55 7m turbo-laps
 Rename of ArrowPlayer
 Script dosent work for this
 
@@ -743,7 +757,7 @@ Script dosent work for this
 Work on prompt scripts
 Improved by moving prompt form queue to history in separate script
 
-2025-09-10 10:29-10:42 0h13m prompting
+2025-09-10 10:29-10:42 13m prompting
 Name optimizer prompt
 
 2025-09-10 21:49-23:31 1h42m turbo-laps
@@ -757,43 +771,43 @@ Refactored Car configs to load form json
 Drafted 3 tasks (11:32)
 Refactor car class by extracting CarStateContext (12:26)
 
-2025-09-11 13:16-13:57 0h41m turbo-laps
+2025-09-11 13:16-13:57 41m turbo-laps
 Refactor car class by extracting CarRenderer (13:39)
 Refactor car class by extracting CarInputHandler
 
-2025-09-11 14:36-15:14 0h38m turbo-laps
+2025-09-11 14:36-15:14 38m turbo-laps
 Joystic for mobile touch controll (15:14)
 
-2025-09-11 16:31-17:20 0h49m turbo-laps
+2025-09-11 16:31-17:20 49m turbo-laps
 Joystic single scene test
 
 2025-09-11 18:31-20:04 1h33m turbo-laps
 Joystic with car, controll test, still buggy
 
-2025-09-11 21:12-21:57 0h45m turbo-laps
+2025-09-11 21:12-21:57 45m turbo-laps
 Joystic bug fix
 
 2025-09-12 15:11-17:50 2h39m scripts
 Script calculating bills
 
-2025-09-12 21:47-22:14 0h27m turbo-laps
+2025-09-12 21:47-22:14 27m turbo-laps
 Create obj with no rotation to test full 360 deg joystick
 
 2025-09-13 23:05-00:25 1h20m turbo-laps
 
-2025-09-13 21:01-21:34 0h33m turbo-laps
+2025-09-13 21:01-21:34 33m turbo-laps
 Mobile game project
 
 2025-09-13 11:11-12:14 1h3m turbo-laps
 Create joystic on x and y axis to controll obj with rotation and acceleration
 
-2025-09-13 18:11-18:46 0h35m turbo-laps
+2025-09-13 18:11-18:46 35m turbo-laps
 Scene testing 2 joystics for game car
 
-2025-09-13 13:20-14:13 0h53m blender
+2025-09-13 13:20-14:13 53m blender
 Wood storage
 
-2025-09-13 20:01-20:11 0h10m turbo-laps
+2025-09-13 20:01-20:11 10m turbo-laps
 Game for mobile
 
 2025-09-13 14:56-16:13 1h17m turbo-laps
@@ -805,7 +819,7 @@ refactoring tester setup, car and car factory stuff quite a lot
 2025-09-14 16:57-18:53 1h56m turbo-laps
 refactoring scene generation from 1 clas with ifs and new to classes with di
 
-2025-09-14 10:21-10:55 0h34m turbo-laps
+2025-09-14 10:21-10:55 34m turbo-laps
 
 2025-09-14 11:16-14:34 3h18m turbo-laps
 It is quite hard to do anything, project got a bit bigger, time to refactor ?
@@ -816,7 +830,7 @@ Refactored to new entity tester, it is setup to test scenes and groups of them, 
 2025-09-15 17:48-19:58 2h10m turbo-laps
 Find out what is the problem with car sounds, car sound exception removed, sounds states are a big problem, need extensive debug and refactor
 
-2025-09-15 14:16-14:35 0h19m turbo-laps
+2025-09-15 14:16-14:35 19m turbo-laps
 Publish turbo-laps as github page
 
 2025-09-15 10:12-11:08 0h56m turbo-laps
@@ -825,10 +839,10 @@ Nice navigation system speeding up scenes selection for tests
 2025-09-15 12:00-13:02 1h2m turbo-laps
 Fix scenes with virtual joystick
 
-2025-09-15 13:56-14:15 0h19m turbo-laps
+2025-09-15 13:56-14:15 19m turbo-laps
 Move toutch system to engine, use it in turbo-laps project, update project files for mobile game version
 
-2025-09-15 15:00-15:42 0h42m turbo-laps
+2025-09-15 15:00-15:42 42m turbo-laps
 Refactor joystick to be self contained in its folder, moved types to classes they define
 
 2025-09-15 16:10-17:16 1h6m turbo-laps
@@ -838,7 +852,7 @@ Fix test car scene
 Fix draw a point scene
 Fix sound scene
 
-2025-09-15 13:39-13:53 0h14m turbo-laps
+2025-09-15 13:39-13:53 14m turbo-laps
 Fix mobile menu btn to work with toutch
 
 2025-09-15 22:05-23:18 1h13m turbo-laps
@@ -848,7 +862,7 @@ Research engine sound state
 Remove all not needed props form car class
 Have only 3 dependencies in car ctor
 
-2025-09-16 17:30-18:00 0h30m diy
+2025-09-16 17:30-18:00 30m diy
 Glued friction stoppers in my laptop rotating articulated arm
 
 2025-09-16 16:30-17:30 1h turbo-laps
@@ -860,27 +874,34 @@ Continue
 2025-09-17 11:37-14:16 2h39m turbo-laps
 Engine sound class, production quality
 
-2025-09-17 10:45-11:15 0h30m diy
+2025-09-17 10:45-11:15 30m diy
 Removed rods from rotating articulated arm
 
 2025-09-17 21:33-23:17 1h44m game-hub
 Analizing disaster that was battleship-js project
 
-2025-09-17 18:20-19:00 0h40m turbo-laps
+2025-09-17 18:20-19:00 40m turbo-laps
 Skid sound class
 
-2025-09-17 16:46-17:18 0h32m turbo-laps
+2025-09-17 16:46-17:18 32m turbo-laps
 Crash sound class
 
-2025-09-18 13:50-16:51 0h32m productivity
+2025-09-18 13:50-16:51 32m productivity
 Converting files from format-2 to format-3
 
-2025-09-18 16:52-18:30 0h32m diy
+2025-09-18 16:52-18:30 32m diy
 Moved soil from ground to compost box
 Stored raised beds to garage
 
-2025-09-18 19:00-00:55 0h32m productivity
+2025-09-18 19:00-00:55 32m productivity
 Converting files from format-2 to format-3
 
 2025-09-19 13:30-14:30 2h productivity
 Converting files from format-2 to format-3
+
+2025-09-19 15:00-15:40 40m productivity
+Script to validate proj-log.txt
+Validating and fixing file
+
+2025-09-19 15:56- productivity
+Validating and fixing file
