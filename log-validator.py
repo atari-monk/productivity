@@ -252,7 +252,10 @@ def save_errors_to_md(errors: List[Dict], output_path: Path) -> None:
 
 def main():
     parser = argparse.ArgumentParser(description='Validate productivity log file')
-    parser.add_argument('log_file', help='Path to the log file to validate')
+    parser.add_argument('--log-file', 
+                   '-l',
+                   default='C:/Atari-Monk-Art/productivity/proj-log-2025.txt',
+                   help='Path to the log file to validate (default: %(default)s)')
     parser.add_argument('--output', '-o', help='Path to output MD file for all errors')
     parser.add_argument('--first', '-f', action='store_true', help='Stop at first error and print to CLI')
     
