@@ -1,48 +1,48 @@
-## assets 2025-07-20 11:16 - 12:16 1h 0m
+## assets 2025-07-20 09:00 - 10:00 1h 0m
 
 - Categorized assets in folder
 
-## mind-dump 2025-07-20 11:16 - 12:16 1h 0m
+## mind-dump 2025-07-20 11:00 - 12:00 1h 0m
 
 - Initial project setup
 
-## game-hub 2025-07-20 11:46 - 13:46 2h 0m
+## game-hub 2025-07-20 13:00 - 15:00 2h 0m
 
 - Initial project setup, vite typescript
 - Rewrite to typescript
 
-## productivity 2025-07-20 15:07 - 16:37 1h 30m
+## productivity 2025-07-20 16:00 - 17:30 1h 30m
 
 - Initial project setup
 
-## game-hub 2025-07-21 13:28 - 13:43 0h 15m
+## game-hub 2025-07-21 10:00 - 10:15 0h 15m
 
 - Publish game hub into 'pages' repository
 
-## diy 2025-07-21 14:10 - 16:40 2h 30m
+## diy 2025-07-21 11:00 - 13:30 2h 30m
 
 - Tray for laptop, for articulated arm
 
-## fullscreen-canvas 2025-07-21 13:28 - 13:43 0h 15m
+## fullscreen-canvas 2025-07-21 14:00 - 14:15 0h 15m
 
 - Reading current codebase
 
-## project-sanity 2025-07-21 15:36 - 16:36 1h 0m
+## project-sanity 2025-07-21 15:00 - 16:00 1h 0m
 
 - Removing unused files
 
-## dev-blog 2025-07-21 15:36 - 16:36 1h 0m
+## dev-blog 2025-07-21 17:00 - 18:00 1h 0m
 
 - Initial project setup
 - Doc to setup 'fullscreen-canvas' project
 
-## scenelet 2025-07-22 13:10 - 13:40 0h 30m
+## scenelet 2025-07-22 09:30 - 10:00 0h 30m
 
 - Project structure
 - Initial setup, vite ts with pnpm
 - Used my zippy-game-engine npm package
 
-## zippy-game-engine 2025-07-22 09:51 - 13:11 3h 20m
+## zippy-game-engine 2025-07-22 11:00 - 14:20 3h 20m
 
 - Project structure
 - Initial setup, vite ts with pnpm
@@ -99,13 +99,13 @@
 - 4 threaded rods to connect arm to base
 - Glued plywood blocks to friction hold arms in place
 
-## pickaroo 2025-07-27 16:29 - 19:29 3h 0m
+## pickaroo 2025-07-27 09:00 - 12:00 3h 0m
 
 - Test Container component
 - Test draft
 - Was not visible due to styles
 
-## rock-paper-scissors 2025-07-27 09:51 - 11:51 2h 0m
+## rock-paper-scissors 2025-07-27 13:00 - 15:00 2h 0m
 
 - Project structure
 - Generate project
@@ -114,36 +114,36 @@
 - Convesion from js to ts
 - Published
 
-## fun 2025-07-27 16:49 - 17:49 1h 0m
+## fun 2025-07-27 17:00 - 18:00 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish lost to AI
 - Skirmish won against AI turtle, 50% nerfed
 
-## fun 2025-07-28 15:51 - 16:31 0h 40m
+## fun 2025-07-28 20:00 - 20:40 0h 40m
 
 - OpenRA - Red Alert
 - Skirmish won against AI normal, 40% nerfed
 
-## scenelet 2025-07-28 12:47 - 15:47 3h 0m
+## scenelet 2025-07-28 09:00 - 12:00 3h 0m
 
 - Scenes
 - Converted all scenes form js to ts
 - Looping thrue them with variable duration
 - As a side task published blogs
 
-## rock-paper-scissors 2025-07-28 14:29 - 14:49 0h 20m
+## rock-paper-scissors 2025-07-28 12:30 - 12:50 0h 20m
 
 - Investigate bug of clicking not working on mobile
 - Implemented
 - Published
 - Tested
 
-## dev-blog 2025-07-28 15:30 - 16:30 1h 0m
+## dev-blog 2025-07-28 13:00 - 14:00 1h 0m
 
 - Prompt to generate scene for 'scenelet' project
 
-## scripts 2025-07-28 14:26 - 15:56 1h 30m
+## scripts 2025-07-28 14:30 - 16:00 1h 30m
 
 - Script to generate 'index.md' for 'dev-blog'
 - Generated prompt
@@ -188,12 +188,12 @@
 - Script tool to generate new files
 - Doc on LLM chats
 
-## fun 2025-07-31 10:00 - 10:30 0h 30m
+## fun 2025-07-31 20:00 - 20:30 0h 30m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 
-## fullscreen-canvas 2025-07-31 15:44 - 19:44 4h 0m
+## fullscreen-canvas 2025-07-31 09:00 - 13:00 4h 0m
 
 - Made classes more SRP
 - Fixed factory
@@ -201,7 +201,7 @@
 - Fixed engine hook
 - Refactor project structure
 
-## dev-blog 2025-07-31 16:56 - 18:36 1h 40m
+## dev-blog 2025-07-31 14:00 - 15:40 1h 40m
 
 - Prompts for generating documentations of code base
 - Added notes from chatting with LLM
@@ -220,27 +220,27 @@
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 
-## fun 2025-08-02 11:26 - 12:26 1h 0m
+## fun 2025-08-02 20:00 - 21:00 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 - Article said ai cheats
 - Skirmish against AI normal, huge map, same nation, 10% nerfed, won
 
-## scripts 2025-08-02 09:15 - 10:45 1h 30m
+## scripts 2025-08-02 09:00 - 10:30 1h 30m
 
 - Blog inxed in new format
 - Index for each level of file system
 
-## mind-dump 2025-08-02 15:26 - 15:46 0h 20m
+## mind-dump 2025-08-02 11:00 - 11:20 0h 20m
 
 - New posts
 
-## dev-blog 2025-08-02 11:10 - 11:25 0h 15m
+## dev-blog 2025-08-02 11:20 - 11:35 0h 15m
 
 - Generate prompts
 
-## zippy-game-engine 2025-08-02 10:16 - 13:06 2h 50m
+## zippy-game-engine 2025-08-02 12:00 - 14:50 2h 50m
 
 - Optimizing zippy-shared-lib with maintanace prompts
 - Zippy-test is a page to test component integration
@@ -258,7 +258,7 @@
 - Fix bugs form AI
 - Scripts to support prompts generation
 
-## zippy-game-engine 2025-08-04 13:31 - 20:51 7h 20m
+## zippy-game-engine 2025-08-04 08:00 - 15:20 7h 20m
 
 - zippy-shared-lib
 - Cli commands with args for prompt generation
@@ -267,7 +267,7 @@
 - Refactoring with SOLID checker prompt, went from 2 files to 20
 - Script with 9 maintanace prompts
 
-## diy 2025-08-04 14:41 - 19:01 4h 20m
+## diy 2025-08-04 16:00 - 20:20 4h 20m
 
 - Hand saw bench
 - Cut >= 10x10 wood for legs with Table saw
@@ -276,15 +276,15 @@
 - Helped parents to bolt in their sitting bench, metal legs to boards
 - Cut little boards, for phone stand articulated arm, with new hand saw bench
 
-## mind-dump 2025-08-05 13:51 - 13:51 0h 0m
+## mind-dump 2025-08-05 09:00 - 09:00 0h 0m
 
 - Reset git history
 
-## dev-blog 2025-08-05 14:28 - 14:48 0h 20m
+## dev-blog 2025-08-05 09:00 - 09:20 0h 20m
 
 - Reset git history
 
-## zippy-game-engine 2025-08-05 14:34 - 18:34 4h 0m
+## zippy-game-engine 2025-08-05 10:00 - 14:00 4h 0m
 
 - zippy-shared-lib
 - Made code compile
@@ -294,29 +294,29 @@
 - zippy
 - Update after removed 95% of shared lib
 
-## fullscreen-canvas 2025-08-05 12:44 - 14:14 1h 30m
+## fullscreen-canvas 2025-08-05 15:00 - 16:30 1h 30m
 
 - Updated shared library, engine and canvas
 
-## mind-dump 2025-08-06 10:28 - 11:08 0h 40m
+## mind-dump 2025-08-06 08:00 - 08:40 0h 40m
 
 - Fix this file to comply with new format
 - Fix git history (reset history, 'Initial commit' then only 'Update content')
 - Add index.md
 - Indexing script, fixed files indexing in content folder
 
-## productivity 2025-08-06 13:30 - 14:50 1h 20m
+## productivity 2025-08-06 09:00 - 10:20 1h 20m
 
 - Fix git history (reset history, 'Initial commit' then only 'Update content')
 - Fix this file to comply with new format and same for projects active today
 - New file daily-projects.yaml, index of projects active given day
 
-## fullscreen-canvas 2025-08-06 10:28 - 11:08 0h 40m
+## fullscreen-canvas 2025-08-06 10:30 - 11:10 0h 40m
 
 - Fix this file to comply with new format and same for projects active today
 - Fix git history (reset history, 'Initial commit')
 
-## zippy-game-engine 2025-08-06 13:15 - 15:05 1h 50m
+## zippy-game-engine 2025-08-06 12:00 - 13:50 1h 50m
 
 - zippy-shared-lib
 - Rewiewing, i see, i pretty much wasted 16 hours. I am not sure why this happened. After 3 project with simple game engine, i wanted to optimize them with prompts, document what it is. I had 2 components, canvas and engine. I comunicated them with interface in shared lib. Extracted two shared classes. I was optimizing them with prompts. Events are handled in components, so no need for centralizing it. Wrappers over browser api is just pointless and insane. Classes were removed. I guess i was procrastinating and wanted prompt automation to much. Only thing out of this is scripts for prompting, but it may turn out to be not that usefull. This gives me thouth that a lot of time, best code is removed one. Need clear, measured goals.
@@ -332,20 +332,20 @@
 - Fix index.md
 - Added new posts
 
-## fullscreen-canvas 2025-08-07 12:57 - 16:47 3h 50m
+## fullscreen-canvas 2025-08-07 08:00 - 11:50 3h 50m
 
 - Documentation
 
-## zippy-game-engine 2025-08-07 16:20 - 16:50 0h 30m
+## zippy-game-engine 2025-08-07 12:00 - 12:30 0h 30m
 
 - Fix this file to comply with new format
 
-## fullscreen-canvas 2025-08-08 13:24 - 15:24 2h 0m
+## fullscreen-canvas 2025-08-08 13:00 - 15:00 2h 0m
 
 - Documentation
 - Small Refactor during documentation
 
-## zippy-game-engine 2025-08-08 12:34 - 13:44 1h 10m
+## zippy-game-engine 2025-08-08 16:00 - 17:10 1h 10m
 
 - Documentation with refactoring
 
@@ -353,11 +353,11 @@
 
 - Documentation with refactoring
 
-## zippy-game-engine 2025-08-10 13:23 - 15:23 2h 0m
+## zippy-game-engine 2025-08-10 08:00 - 10:00 2h 0m
 
 - Documentation with refactoring
 
-## job-search 2025-08-10 13:57 - 13:57 0h 0m
+## job-search 2025-08-10 10:00 - 10:00 0h 0m
 
 - send cv to 'Programista operator frezarki CNC'
 
@@ -393,11 +393,11 @@
 - Fix canvas resizer bug
 - Publish new version
 
-## fullscreen-canvas 2025-08-15 10:42 - 10:47 0h 5m
+## fullscreen-canvas 2025-08-15 08:00 - 08:05 0h 5m
 
 - Fixed css of component witch is crucial to its function
 
-## command-box 2025-08-15 10:36 - 13:16 2h 40m
+## command-box 2025-08-15 09:00 - 11:40 2h 40m
 
 - It kind of works but i bite on to much that i can chew, ai creeping features in
 - Need to only do command object first and then add relation with tag, not both at once
@@ -446,18 +446,18 @@
 - Problem with width and heigth not available in scene methods
 - Solved with passing this data to scene ctor
 
-## rock-paper-scissors 2025-08-21 16:15 - 17:15 1h 0m
+## rock-paper-scissors 2025-08-21 08:00 - 09:00 1h 0m
 
 - Used new zippy libs versions
 - Published version 0.0.2
 
-## scenelet 2025-08-21 14:18 - 16:28 2h 10m
+## scenelet 2025-08-21 10:00 - 12:10 2h 10m
 
 - Update libs versions
 - Update scenlet scenes to match libs implementation
 - Published version 0.0.2 to game-hub
 
-## turbo-laps 2025-08-21 10:00 - 10:40 0h 40m
+## turbo-laps 2025-08-21 12:30 - 13:10 0h 40m
 
 - Setup project turbo-laps-scenelet (turbo-laps scenes to test features in isolation)
 - Used zippy libs
@@ -468,20 +468,20 @@
 
 - Prepare documentation for zippy-shared-lib
 
-## dev-blog 2025-08-21 15:44 - 15:49 0h 5m
+## dev-blog 2025-08-21 19:00 - 19:05 0h 5m
 
 - Flatten categories
 
-## fun 2025-08-21 12:02 - 12:22 0h 20m
+## fun 2025-08-21 20:00 - 20:20 0h 20m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost
 
-## diy 2025-08-22 09:11 - 09:41 0h 30m
+## diy 2025-08-22 09:00 - 09:30 0h 30m
 
 - Cut 2m branch x 4 with hand saw (from parents ganden cutouts)
 
-## fun 2025-08-22 09:11 - 09:41 0h 30m
+## fun 2025-08-22 20:00 - 20:30 0h 30m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, won
@@ -539,7 +539,7 @@
 - Long and short prependicular to each other
 - Long, short, long, short and so on, on top of each other
 
-## turbo-laps 2025-08-26 10:49 - 13:49 3h 0m
+## turbo-laps 2025-08-26 08:00 - 11:00 3h 0m
 
 - Add game score scene (25m)
 - Tweak size of track (10m)
@@ -547,13 +547,13 @@
 - Menu Scene with title Turbo Laps, 5-Lap Time Trial, description, Start button
 - Make Start button switch scene mode to all (1h)
 
-## diy 2025-08-27 11:48 - 12:28 0h 40m
+## diy 2025-08-27 11:30 - 12:10 0h 40m
 
 - Processed couple of twigs
 - Finished main structure
 - Started cutting 50cm twigs for inside walls of garden bed
 
-## turbo-laps 2025-08-27 09:13 - 13:13 4h 0m
+## turbo-laps 2025-08-27 13:00 - 17:00 4h 0m
 
 - Prompt for new scene - countdown (30m)
 - Copy main and scenes form turbo-laps-scenelet to turbo-laps, turn main into game (15m)
@@ -588,7 +588,7 @@
 - Refactor prompting proj, archive old version, prompt model 0.0.1 (2h50m)
 - Refactor scene-factory (1h45m)
 
-## turbo-laps 2025-08-31 10:09 - 16:59 6h 50m
+## turbo-laps 2025-08-31 08:00 - 14:50 6h 50m
 
 - Thinkig what to do with yt in background (1h)
 - Test ElipseTrack, RectangleTrack scene, in isolation as single scene (20m)
@@ -597,12 +597,12 @@
 - Test StartingGrid, in isolation as single scene (30m)
 - TrackConfigService singleton extracted and used in scenes (6 scenes) (4h)
 
-## prompting 2025-08-31 11:05 - 11:45 0h 40m
+## prompting 2025-08-31 15:00 - 15:40 0h 40m
 
 - History file with prompts used
 - Simplified main entrypoint script
 
-## fun 2025-09-01 12:14 - 13:14 1h 0m
+## fun 2025-09-01 20:00 - 21:00 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, lost on wall building
@@ -626,29 +626,29 @@
 - Made diy mill out of ladder, wooden tray and chainsaw but parts dont fit, but it was close, this could be done (30m)
 - Took bark of from log (30m)
 
-## turbo-laps 2025-09-02 12:53 - 14:08 1h 15m
+## turbo-laps 2025-09-02 08:00 - 09:15 1h 15m
 
 - Functional multiSceneFactory (25m)
 - Add rendering points to Mouse Currsor scene 
 - Prompts written (25m) 
 - Better prompt system hepled to implement (25m)
 
-## prompting 2025-09-02 15:33 - 19:33 4h 0m
+## prompting 2025-09-02 10:00 - 14:00 4h 0m
 
 - In new main, load template prompt and merge with core data from prompt (40m)
 - Remove previous stage and introduce new one, new concept for this tool (50m)
 - Introduced functions and main with structured flow, removed props not used in prompt, removed big bugs (2h30m)
 
-## diy 2025-09-02 10:49 - 10:49 0h 0m
+## diy 2025-09-02 19:00 - 19:00 0h 0m
 
 - I have no say on the plot therfore i concluded i wont do anything here, no point
 - No need for pointless slavery among brainwashed
 
-## job-search 2025-09-02 10:49 - 10:49 0h 0m
+## job-search 2025-09-02 20:00 - 20:00 0h 0m
 
 - send cv to 'Data Engineer' Krakow Hybrid (nofluffjobs)
 
-## fun 2025-09-02 13:35 - 14:35 1h 0m
+## fun 2025-09-02 21:00 - 22:00 1h 0m
 
 - OpenRA - Red Alert
 - Skirmish against AI normal, huge map, same nation, top of map, fair map placement (before no simetry), lost, won
@@ -1075,3 +1075,20 @@
 ## turbo-laps 2025-09-17 16:46 - 17:18 0h 32m
 
 - Crash sound class
+
+## productivity 2025-09-18 13:50 - 16:51 0h 32m
+
+- Converting files from format-2 to format-3
+
+## diy 2025-09-18 16:52 - 18:30 0h 32m
+
+- Moved soil from ground to compost box
+- Stored raised beds to garage
+
+## productivity 2025-09-18 19:00 - 00:55 0h 32m
+
+- Converting files from format-2 to format-3
+
+## productivity 2025-09-19 13:28 - 
+
+- Converting files from format-2 to format-3

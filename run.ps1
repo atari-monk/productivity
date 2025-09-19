@@ -52,7 +52,7 @@ function Find-TimeConflicts {
     return $conflicts
 }
 
-$logContent = Get-LogEntries -Path "C:/Atari-Monk-Art/productivity/proj-log.md"
+$logContent = Get-LogEntries -Path "C:/Atari-Monk-Art/productivity/proj-log-fixed.md"
 $parsedEntries = Parse-LogEntries -Content $logContent
 $timeConflicts = Find-TimeConflicts -Entries $parsedEntries
 
@@ -61,11 +61,11 @@ if ($timeConflicts.Count -eq 0) {
     exit
 }
 
-Write-Host "Found $($timeConflicts.Count) time conflict(s):"
-foreach ($conflict in $timeConflicts) {
-    Write-Host "Conflict on $($conflict.Date.ToString('yyyy-MM-dd')):"
-    Write-Host "  $($conflict.Entry1.Project) $($conflict.Entry1.StartTime.ToString('hh\:mm')) - $($conflict.Entry1.EndTime.ToString('hh\:mm'))"
-    Write-Host "  $($conflict.Entry2.Project) $($conflict.Entry2.StartTime.ToString('hh\:mm')) - $($conflict.Entry2.EndTime.ToString('hh\:mm'))"
-    Write-Host "  Overlap: $($conflict.OverlapMinutes) minutes"
-    Write-Host "---"
-}
+$firstConflict = $timeConflicts[0]
+Write-Host "First conflict found:"
+Write-Host "Date: $($firstConflict.Date.ToString('yyyy-MM-dd'))"
+Write-Host "Entry 1: $($firstConflict.Entry1.Project) $($firstConflict.Entry1.StartTime.ToString('hh\:mm')) - $($firstConflict.Entry1.EndTime.ToString('hh\:mm'))"
+Write-Host "Entry 2: $($firstConflict.Entry2.Project) $($firstConflict.Entry2.StartTime.ToString('hh\:mm')) - $($firstConflict.Entry2.EndTime.ToString('hh\:mm'))"
+Write-Host "Overlap: $($firstConflict.OverlapMinutes) minutes"
+Write-Host "---"
+Write-Host "Total conflicts remaining: $($timeConflicts.Count)"
