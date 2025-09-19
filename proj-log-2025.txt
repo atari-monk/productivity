@@ -910,3 +910,6 @@ Validating and fixing file
 Loging script for proj-log-2025.txt file
 Tested, seems to work
 
+2025-09-19 19:06  productivity
+script to log what videos i watch
+
