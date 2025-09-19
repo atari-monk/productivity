@@ -1,6 +1,6 @@
-# Productivity Project History
+# Project History
 
-This is a 'productivity' support repository.  
+This is a 'proj-log' repository.  
 The point is to measure projects development with logs.
 
 ## Stage 1
@@ -40,10 +40,9 @@ File format:
 
 Requirements:
 
-- I need new script in file C:\Atari-Monk-Art\productivity\scripts\log.py
 - Ask for project name
-- Check path C:/Atari-Monk-Art/productivity/content/format-2/ if file project-name.md exists
-- If file needs to be generated add header '# project-name\n'
+- Check path C:/Atari-Monk-Art/proj-log/, if file project-name.md exists
+- If file needs to be generated, add header '# project-name\n'
 - When flag -start is given append '## Session yyyy-mm-dd hh:mm'
 - When flag -note is given append note
 - When flag -state is given print last session content or given number of them
@@ -56,25 +55,17 @@ Requirements:
 ## Start Session:
 
 ```sh
-proj-log project-name -start
+proj_log project-name -start
 ```
 
 ## Add Session Note:
 
 ```sh
-proj-log project-name -note "bla bla"
+proj_log project-name -note "bla bla"
 ```
 
 ## End Session: 
 
 ```sh
-proj-log project-name -end
+proj_log project-name -end
 ```
-
-### Conversion tool for format 1 -> 2
-
-- I need new script in file C:\Atari-Monk-Art\productivity\scripts\convert.py
-- Ask for project name
-- Check path C:/Atari-Monk-Art/productivity/content/format-1/ if file project-name.yaml exists proceed else inform no file
-- Convert file to format-2.md
-- Save file as C:/Atari-Monk-Art/productivity/content/format-2/project-name.md
