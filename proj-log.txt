@@ -833,7 +833,7 @@ Find out what is the problem with car sounds, car sound exception removed, sound
 2025-09-15 14:16-14:35 19m turbo-laps
 Publish turbo-laps as github page
 
-2025-09-15 10:12-11:08 0h56m turbo-laps
+2025-09-15 10:12-11:08 56m turbo-laps
 Nice navigation system speeding up scenes selection for tests
 
 2025-09-15 12:00-13:02 1h2m turbo-laps
@@ -886,17 +886,17 @@ Skid sound class
 2025-09-17 16:46-17:18 32m turbo-laps
 Crash sound class
 
-2025-09-18 13:50-16:51 32m productivity
+2025-09-18 13:50-16:51 3h1m productivity
 Converting files from format-2 to format-3
 
-2025-09-18 16:52-18:30 32m diy
+2025-09-18 16:52-18:30 1h38m diy
 Moved soil from ground to compost box
 Stored raised beds to garage
 
-2025-09-18 19:00-00:55 32m productivity
+2025-09-18 19:00-00:55 5h55m productivity
 Converting files from format-2 to format-3
 
-2025-09-19 13:30-14:30 2h productivity
+2025-09-19 13:30-14:30 1h productivity
 Converting files from format-2 to format-3
 
 2025-09-19 15:00-15:40 40m productivity

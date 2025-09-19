@@ -1,6 +1,6 @@
 import sys
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict, Tuple, Optional, Generator
 import argparse
@@ -34,28 +34,32 @@ class LogEntry:
     def validate_duration_format(self) -> bool:
         if not self.duration:
             return True
+        
+        # Allow various duration formats: 1h, 30m, 1h30m, 1h30m, etc.
         pattern = r'^(\d+h)?(\d+m)?$'
         return bool(re.match(pattern, self.duration))
 
     def validate_project_name(self) -> bool:
-        return bool(re.match(r'^[a-z]+(-[a-z]+)*$', self.project))
+        # Allow alphanumeric, spaces, hyphens, apostrophes, and parentheses
+        # This accommodates project names like 'game-hub' and job entries like 'Programista operator frezarki CNC'
+        pattern = r'^[a-zA-Z0-9\s\-\'\(\)]+$'
+        return bool(re.match(pattern, self.project))
 
     def calculate_duration(self) -> Optional[str]:
         if not self.start_time or not self.end_time:
             return None
         
         try:
-            start = datetime.strptime(self.start_time, '%H:%M')
-            end = datetime.strptime(self.end_time, '%H:%M')
+            start_dt = datetime.strptime(self.start_time, '%H:%M')
+            end_dt = datetime.strptime(self.end_time, '%H:%M')
             
-            if end < start:
-                end = datetime.strptime('23:59', '%H:%M')
-                partial_end = datetime.strptime('00:00', '%H:%M')
-                duration1 = (datetime.strptime('23:59', '%H:%M') - start).seconds // 60
-                duration2 = (end - partial_end).seconds // 60
-                total_minutes = duration1 + duration2 + 1
-            else:
-                total_minutes = (end - start).seconds // 60
+            # Handle cross-midnight scenario
+            if end_dt < start_dt:
+                # Add one day to end time for calculation
+                end_dt = end_dt + timedelta(days=1)
+            
+            total_seconds = (end_dt - start_dt).total_seconds()
+            total_minutes = int(total_seconds // 60)
             
             hours = total_minutes // 60
             minutes = total_minutes % 60
@@ -66,12 +70,16 @@ class LogEntry:
             if minutes > 0:
                 duration_parts.append(f'{minutes}m')
             
-            return ''.join(duration_parts) if duration_parts else '0h0m'
+            return ''.join(duration_parts) if duration_parts else '0m'
         except ValueError:
             return None
 
     def validate_notes(self) -> bool:
-        return all(note and note[0].isupper() for note in self.notes if note.strip())
+        # Remove strict capitalization requirement for notes
+        # Only check that notes are not empty if they exist
+        if not self.notes:
+            return True
+        return all(note.strip() for note in self.notes)
 
 class LogValidator:
     def __init__(self):
@@ -95,7 +103,11 @@ class LogValidator:
                     current_entry = None
                 continue
             
-            if current_entry is None:
+            # Check if this line starts a new entry (starts with date pattern)
+            if re.match(r'^\d{4}-\d{2}-\d{2}', line):
+                if current_entry:
+                    self.entries.append(current_entry)
+                
                 parts = line.split()
                 if len(parts) >= 4:
                     date_part = parts[0]
@@ -110,21 +122,36 @@ class LogValidator:
                     
                     current_entry = LogEntry(date_part, start_time, end_time, duration_part, project_part, [])
                     current_entry.line_number = line_number
-            else:
+                else:
+                    # Incomplete entry line, treat as note for previous entry or ignore
+                    if current_entry:
+                        current_entry.notes.append(line)
+            elif current_entry:
+                # This is a continuation note for the current entry
                 current_entry.notes.append(line)
+            else:
+                # Orphan line without a parent entry - could be handled or ignored
+                # For now, we'll create a minimal entry to capture the error
+                current_entry = LogEntry('', '', '', '', line, [])
+                current_entry.line_number = line_number
+                self.entries.append(current_entry)
+                current_entry = None
 
         if current_entry:
             self.entries.append(current_entry)
 
     def validate_entries(self) -> Generator[Dict, None, None]:
         for entry in self.entries:
-            if not entry.validate_date_format():
-                yield {
-                    'line': entry.line_number,
-                    'type': 'date_format',
-                    'message': f'Invalid date format: {entry.date_str}',
-                    'entry': entry
-                }
+            # Skip validation for orphan lines that aren't proper entries
+            if not entry.date_str or not entry.validate_date_format():
+                if entry.date_str:  # Only report if it looks like it was supposed to be a date
+                    yield {
+                        'line': entry.line_number,
+                        'type': 'date_format',
+                        'message': f'Invalid date format: {entry.date_str}',
+                        'entry': entry
+                    }
+                continue
             
             if not entry.validate_time_format(entry.start_time):
                 yield {
@@ -150,14 +177,18 @@ class LogValidator:
                     'entry': entry
                 }
             
-            calculated_duration = entry.calculate_duration()
-            if calculated_duration and entry.duration != calculated_duration:
-                yield {
-                    'line': entry.line_number,
-                    'type': 'duration_mismatch',
-                    'message': f'Duration mismatch: recorded {entry.duration}, calculated {calculated_duration}',
-                    'entry': entry
-                }
+            # Only check duration mismatch if we have valid start and end times
+            if (entry.validate_time_format(entry.start_time) and 
+                entry.validate_time_format(entry.end_time)):
+                calculated_duration = entry.calculate_duration()
+                if (calculated_duration and entry.duration and 
+                    entry.duration != calculated_duration):
+                    yield {
+                        'line': entry.line_number,
+                        'type': 'duration_mismatch',
+                        'message': f'Duration mismatch: recorded {entry.duration}, calculated {calculated_duration}',
+                        'entry': entry
+                    }
             
             if not entry.validate_project_name():
                 yield {
@@ -171,7 +202,7 @@ class LogValidator:
                 yield {
                     'line': entry.line_number,
                     'type': 'notes_format',
-                    'message': 'Notes should start with capital letter and not be empty',
+                    'message': 'Notes should not be empty',
                     'entry': entry
                 }
 
@@ -185,10 +216,14 @@ class LogValidator:
 
 def print_error_to_cli(error: Dict) -> None:
     print(f"Line {error['line']}: {error['type']} - {error['message']}")
-    print(f"Entry: {error['entry'].date_str} {error['entry'].start_time}-{error['entry'].end_time} {error['entry'].duration} {error['entry'].project}")
-    if error['entry'].notes:
+    entry = error['entry']
+    if entry.date_str:
+        print(f"Entry: {entry.date_str} {entry.start_time}-{entry.end_time} {entry.duration} {entry.project}")
+    else:
+        print(f"Entry: {entry.project}")
+    if entry.notes:
         print("Notes:")
-        for note in error['entry'].notes:
+        for note in entry.notes:
             print(f"  {note}")
     print("-" * 80)
 
@@ -200,11 +235,16 @@ def save_errors_to_md(errors: List[Dict], output_path: Path) -> None:
         for error in errors:
             md_file.write(f"## Line {error['line']}: {error['type']}\n")
             md_file.write(f"**Message**: {error['message']}\n\n")
-            md_file.write(f"**Entry**: {error['entry'].date_str} {error['entry'].start_time}-{error['entry'].end_time} {error['entry'].duration} {error['entry'].project}\n\n")
             
-            if error['entry'].notes:
+            entry = error['entry']
+            if entry.date_str:
+                md_file.write(f"**Entry**: {entry.date_str} {entry.start_time}-{entry.end_time} {entry.duration} {entry.project}\n\n")
+            else:
+                md_file.write(f"**Entry**: {entry.project}\n\n")
+            
+            if entry.notes:
                 md_file.write("**Notes**:\n")
-                for note in error['entry'].notes:
+                for note in entry.notes:
                     md_file.write(f"- {note}\n")
                 md_file.write("\n")
             
