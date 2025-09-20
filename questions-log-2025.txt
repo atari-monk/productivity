@@ -1,0 +1,5 @@
+2025-09-20 13:18
+Is _ recommended as space between words in file name, for python file naming convention ?
+Answer yes/no with example
+Yes, for example user_profile_manager.py
+#python #naming-conventions

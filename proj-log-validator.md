@@ -1,7 +1,7 @@
-# Log Validation Script Rules Report
+# Proj Log Validation Script Rules Report
 
 ## Overview
-The `log-validator.py` script enforces the following validation rules on productivity log files:
+The `proj_log_validator.py` script enforces the following validation rules on log files:
 
 ## 1. Date Format Validation
 - **Rule**: Dates must follow the `YYYY-MM-DD` format
@@ -60,4 +60,4 @@ The `log-validator.py` script enforces the following validation rules on product
 - **Validation Method**: Path existence check in `main()`
 - **Error Handling**: Proper exit codes (0 for success, 1 for errors)
 
-The script provides comprehensive validation for productivity log entries while maintaining flexibility for various project naming conventions and handling edge cases like overnight work sessions.
+The script provides comprehensive validation for project log entries while maintaining flexibility for various project naming conventions and handling edge cases like overnight work sessions.

@@ -910,6 +910,18 @@ Validating and fixing file
 Loging script for proj-log-2025.txt file
 Tested, seems to work
 
-2025-09-19 19:06  productivity
-script to log what videos i watch
+2025-09-19 19:06-19:35 29m productivity
+Script to log what videos i watch
+Seems to work
+
+2025-09-19 22:00-22:55 55m productivity
+Work on scripts new features
+Proj-reader (project filtering records), idea for q&a script
+
+2025-09-20 12:00-12:48 48m productivity
+Fix file format and notes in vid-log-2025.txt
+
+2025-09-20 12:48-14:43 1h55m productivity
+Upgraded prompts in history
+Produced cli script for loging to questions and answers file
 
